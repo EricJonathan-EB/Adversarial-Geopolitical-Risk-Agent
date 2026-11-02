@@ -1,0 +1,129 @@
+# =============================================================================
+# Adversarial Geopolitical Risk Agent -- .gitignore
+# Rationale: this repo holds code (notebooks) only. Raw data, generated
+# artifacts, model caches, secrets and editor/OS noise stay out of git.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# 1. Project data (large, re-creatable, possibly licensed)
+# -----------------------------------------------------------------------------
+# Raw inputs: gdelt_YYYY-MM.csv (13 months, ~4.9M rows), vessel_full_history.csv,
+# fundamentals_full.csv. Keep them outside the repo or in these folders.
+csv_backfill/
+data/
+raw/
+datasets/
+
+# -----------------------------------------------------------------------------
+# 2. Generated pipeline outputs
+# -----------------------------------------------------------------------------
+# Every notebook writes to an `outputs/` folder (rag matrix, vectorizer, episode
+# files, Hawk/Dove JSON, unified feed, alerts, LLM call cache, full-text cache).
+# `outputs/*` (not `outputs/`) so the placeholder below can be re-included.
+**/outputs/*
+!**/outputs/.gitkeep
+
+# Optional: small, human-readable deliverables you may WANT to version.
+# Uncomment to track them (the glob above ignores them by default).
+# !**/outputs/step5_final_calibrated_config.json
+# !**/outputs/disruption_alerts.csv
+# !**/outputs/step5_threshold_sweep.csv
+
+# Caches that could sit outside outputs/ if a path is changed in a Config cell
+step4_cache/
+fulltext_cache/
+
+# -----------------------------------------------------------------------------
+# 3. Large binary / serialized artifacts
+# -----------------------------------------------------------------------------
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.joblib
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.tar.gz
+*.gz
+# (Pickles can execute code on load -- never commit or load ones you didn't make.)
+
+# -----------------------------------------------------------------------------
+# 4. Secrets and credentials (none required today, but guard future API keys)
+# -----------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+credentials.json
+*.secret
+
+# -----------------------------------------------------------------------------
+# 5. Jupyter
+# -----------------------------------------------------------------------------
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+Untitled*.ipynb
+.jupyter/
+*.nbconvert.ipynb
+
+# -----------------------------------------------------------------------------
+# 6. Python
+# -----------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.coverage
+htmlcov/
+
+# -----------------------------------------------------------------------------
+# 7. Logs and temp files
+# -----------------------------------------------------------------------------
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# -----------------------------------------------------------------------------
+# 8. Editors / IDEs
+# -----------------------------------------------------------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# -----------------------------------------------------------------------------
+# 9. Operating system files
+# -----------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/

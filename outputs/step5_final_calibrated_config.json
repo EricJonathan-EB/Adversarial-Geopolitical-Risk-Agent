@@ -1,0 +1,19 @@
+{
+  "based_on": "outputs\\step5_calibrated_config.json",
+  "trigger": {
+    "composite_threshold": 0.65,
+    "disagreement_threshold": 0.45,
+    "exclude_fundamentals_from_disagreement": true,
+    "rationale": "Composite threshold unchanged -- sweep showed negligible effect across 0.55-0.75. Disagreement threshold raised 0.35->0.45 AND fundamentals excluded from the spread calc -- flat trigger-rate curve across the tested grid pointed to a structural cause (stale monthly fundamentals mechanically disagreeing with daily news/vessel), not pure mis-thresholding.",
+    "observed_trigger_rate_old_config": 0.33082624809243516,
+    "observed_trigger_rate_new_config": 0.015587529976019185
+  },
+  "human_review": {
+    "disagreement_threshold": 0.2,
+    "rationale": "Old flat 0.30 flagged 0/20 real episodes -- the real disagreement_index distribution topped out at 0.205 (95th percentile), so 0.30 was set above the ceiling of what the metric could produce. Adopted the calibration notebook's own 80th-percentile suggestion instead."
+  },
+  "credibility_floor": {
+    "score_floor": 0.3,
+    "rationale": "UNCHANGED -- not covered by the Step 5 calibration notebook. Still an assumption, not a validated value."
+  }
+}

@@ -1,0 +1,2248 @@
+{
+  "bab_el_mandeb::2025-08-08 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-08-08 18:00:00+00:00",
+    "tier1_composite_score": 0.4007604009904617,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While it's true that the news sub-score may be influenced by multiple reports of migrant incidents (cited_evidence_ids: ['gdelt:7a6f8bf688af7c85:0', 'gdelt:25c6c354d4fdb54e:0', 'gdelt:969c28e7e23252a2:0']), these incidents do indicate an increase in activity in the Bab el Mandeb corridor, which could potentially disrupt vessel traffic (gdelt:28e1a72e242d37b2:0). The mention of a United Nations worker (gdelt:fb920605a2c699da:0) also suggests international concern about the situation, which could further impact the region's stability and potentially disrupt energy supply chains.",
+      "cited_evidence_ids": [
+        "gdelt:7a6f8bf688af7c85:0",
+        "gdelt:fb920605a2c699da:0",
+        "gdelt:25c6c354d4fdb54e:0",
+        "gdelt:28e1a72e242d37b2:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the increase in migrant activity (gdelt:7a6f8bf688af7c85:0, gdelt:25c6c354d4fdb54e:0, gdelt:969c28e7e23252a2:0) is a concern and could potentially disrupt vessel traffic, it's important to note that the majority of these vessels are likely involved in transporting goods and not specifically oil or gas. The mention of a United Nations worker (gdelt:fb920605a2c699da:0) does indicate international concern about the situation, but it doesn't necessarily suggest a direct disruption of the energy supply chain.",
+      "cited_evidence_ids": [
+        "gdelt:7a6f8bf688af7c85:0",
+        "gdelt:fb920605a2c699da:0",
+        "gdelt:25c6c354d4fdb54e:0",
+        "gdelt:969c28e7e23252a2:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.55,
+      "confidence_band": [
+        0.5,
+        0.6
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Hawk's arguments citing the increase in migrant activity (gdelt:7a6f8bf688af7c85:0, gdelt:25c6c354d4fdb54e:0, gdelt:969c28e7e23252a2:0) and the mention of a United Nations worker (gdelt:fb920605a2c699da:0) are more convincing in suggesting potential disruptions to the energy supply chain due to increased instability in the region.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.214544870119664,
+      "vessel": 0.6134431038092116,
+      "fundamentals": NaN,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.183148+00:00"
+  },
+  "bab_el_mandeb::2025-08-30 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-08-30 18:00:00+00:00",
+    "tier1_composite_score": 0.4429051530123018,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While it is true that the majority of the news articles (7 out of 8) discuss routine issues in Yemen, the mention of migrant smuggling (gdelt:3fd811ec1055a5d5:0) and Iranian involvement (gdelt:3fd811ec1055a5d5:0, gdelt:b9d422181ea1e50b:0) could potentially indicate a shift in the political landscape of Yemen. This could lead to unforeseen disruptions or instability that might affect the Bab el Mandeb corridor in the future.",
+      "cited_evidence_ids": [
+        "gdelt:3fd811ec1055a5d5:0",
+        "gdelt:b9d422181ea1e50b:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the increased mention of Yemen in the news (gdelt:3fd811ec1055a5d5:0, gdelt:1d6e89ca08f5f8b0:0, gdelt:da4062c0204d9287:0, gdelt:aa3326330472e7d2:0, gdelt:5e4b629cbdaa68ff:0, gdelt:320ef663677b6f46:0, gdelt:0824d60d65a7b48c:0) could potentially indicate a worsening situation in Yemen, it is important to note that the articles do not directly mention disruptions or threats to the Bab el Mandeb corridor. The mention of Iran (gdelt:3fd811ec1055a5d5:0) and Houthi rebels (gdelt:b9d422181ea1e50b:0) does suggest a possible involvement of regional powers, but without specific evidence of direct threats to the corridor, the risk remains moderate.",
+      "cited_evidence_ids": [
+        "gdelt:3fd811ec1055a5d5:0",
+        "gdelt:1d6e89ca08f5f8b0:0",
+        "gdelt:da4062c0204d9287:0",
+        "gdelt:aa3326330472e7d2:0",
+        "gdelt:5e4b629cbdaa68ff:0",
+        "gdelt:320ef663677b6f46:0",
+        "gdelt:0824d60d65a7b48c:0",
+        "gdelt:b9d422181ea1e50b:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's argument that the mention of migrant smuggling (gdelt:3fd811ec1055a5d5:0) and Iranian involvement (gdelt:3fd811ec1055a5d5:0, gdelt:b9d422181ea1e50b:0) could potentially indicate a shift in the political landscape of Yemen is more convincing as it provides a plausible scenario for future disruptions.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2739213350715047,
+      "vessel": 0.6360295163732129,
+      "fundamentals": NaN,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.247618+00:00"
+  },
+  "bab_el_mandeb::2025-12-19 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-12-19 18:00:00+00:00",
+    "tier1_composite_score": 0.2266529117032957,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.8,
+      "argument": "While the Dove's argument acknowledges the presence of routine or seasonal activities in Yemen (gdelt:af93cec0f9efe8cc:0, gdelt:088d5d26495a5f90:0, gdelt:d6bf0633f21443e5:0), the mention of 'houthis begin mobilization offensive southern' (gdelt:9e6c62abb15c5a88:0) and 'terrorist aden yemen' (gdelt:2863f1de251506a0:0) indicate an ongoing conflict that could potentially disrupt the Bab el Mandeb corridor. The seizure of an oil tanker by Trump's regime (gdelt:707a00cd1c60ea63:0) may not be a recent event, but it does suggest political instability in Yemen that could lead to future disruptions.",
+      "cited_evidence_ids": [
+        "gdelt:9e6c62abb15c5a88:0",
+        "gdelt:2863f1de251506a0:0",
+        "gdelt:707a00cd1c60ea63:0"
+      ]
+    },
+    "dove": {
+      "score": 0.6,
+      "argument": "While the mention of 'trump's oil tanker seizure' (gdelt:707a00cd1c60ea63:0) does indicate a past event, its potential impact on the current disruption risk is questionable as it occurred in the past. The 'houthis begin mobilization offensive southern' (gdelt:9e6c62abb15c5a88:0) report could indeed suggest political instability, but the focus on internal conflicts within Yemen (gdelt:232d2193347359fa:0, gdelt:2863f1de251506a0:0, gdelt:64d3230f666e6e14:0, gdelt:af93cec0f9efe8cc:0, gdelt:088d5d26495a5f90:0) should be considered in the context of the country's history and ongoing conflicts. The current news sub-score (0.283) may underestimate the true disruption risk due to these factors, but it is important to note that other evidence suggests routine or seasonal explanations for these reports.",
+      "cited_evidence_ids": [
+        "gdelt:707a00cd1c60ea63:0",
+        "gdelt:9e6c62abb15c5a88:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.75,
+      "confidence_band": [
+        0.7,
+        0.8
+      ],
+      "disagreement_index": 0.20000000000000007,
+      "rationale": "The Hawk's argument citing the ongoing conflict in Yemen (gdelt:9e6c62abb15c5a88:0) and potential future disruptions due to past events like Trump's oil tanker seizure (gdelt:707a00cd1c60ea63:0) are more convincing than the Dove's argument that focuses on routine or seasonal activities in Yemen (gdelt:af93cec0f9efe8cc:0, gdelt:088d5d26495a5f90:0, gdelt:d6bf0633f21443e5:0).",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2828896026722276,
+      "vessel": 0.0287393934835692,
+      "fundamentals": 0.4137531316606219,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.318971+00:00"
+  },
+  "bab_el_mandeb::2025-12-23 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-12-23 18:00:00+00:00",
+    "tier1_composite_score": 0.2159655346009148,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the Dove's argument about repetitive and generic stories about Yemen (gdelt:dcb3837fa89b1b54:0, gdelt:b8594a6e2761000b:0, gdelt:e12f805f9f312a2a:0) is valid, it does not necessarily diminish the potential for disruptions to the Bab el Mandeb corridor. The seizure of an oil tanker by the Guyanan regime (gdelt:707a00cd1c60ea63:0) and mentions of military bases in Djibouti (gdelt:c51b7ffbb3103e73:0) and Yemen (gdelt:d0b57cb496a85d14:0) still suggest a heightened political instability that could potentially lead to disruptions.",
+      "cited_evidence_ids": [
+        "gdelt:707a00cd1c60ea63:0",
+        "gdelt:c51b7ffbb3103e73:0",
+        "gdelt:d0b57cb496a85d14:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the increased frequency of news articles about Yemen (gdelt:dcb3837fa89b1b54:0, gdelt:b8594a6e2761000b:0, gdelt:e12f805f9f312a2a) suggests a heightened political instability in the region, it does not necessarily indicate an immediate threat or disruption to the Bab el Mandeb corridor. The mention of military bases in Djibouti (gdelt:c51b7ffbb3103e73) and Yemen (gdelt:d0b57cb496a85d14) is neutral information without specific indications of conflict. The seizure of an oil tanker by the Guyanan regime (gdelt:707a00cd1c60ea63:0) does not directly involve the Bab el Mandeb corridor or suggest a disruption. Lastly, while reports of irregular African migrants arriving on the Shabwa coast of Yemen (gdelt:e12f805f9f312a2a) could potentially escalate tensions, it does not necessarily lead to increased unrest in the Bab el Mandeb corridor.",
+      "cited_evidence_ids": [
+        "gdelt:dcb3837fa89b1b54:0",
+        "gdelt:b8594a6e2761000b:0",
+        "gdelt:e12f805f9f312a2a:0",
+        "gdelt:c51b7ffbb3103e73:0",
+        "gdelt:d0b57cb496a85d14:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.5,
+        0.7
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Hawk's argument about the seizure of an oil tanker by the Guyanan regime (gdelt:707a00cd1c60ea63) and mentions of military bases in Djibouti (gdelt:c51b7ffbb3103e73) and Yemen (gdelt:d0b57cb496a85d14) provide stronger evidence for potential disruptions to the Bab el Mandeb corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2484768798237066,
+      "vessel": 0.0300139825017698,
+      "fundamentals": 0.4137531316606219,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.383473+00:00"
+  },
+  "bab_el_mandeb::2025-12-26 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-12-26 18:00:00+00:00",
+    "tier1_composite_score": 0.1914886298774735,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.6,
+      "argument": "While Dove acknowledges the presence of political tensions and military bases in the region (gdelt:707a00cd1c60ea63:0, gdelt:e5c789c2d7bf3799:0), they do not directly indicate a significant disruption risk for the Bab el Mandeb energy supply corridor. However, the mention of 'oil tanker seizure' (gdelt:707a00cd1c60ea63:0) could potentially disrupt the energy supply chain, as suggested in our initial position.",
+      "cited_evidence_ids": [
+        "gdelt:707a00cd1c60ea63:0",
+        "gdelt:e5c789c2d7bf3799:0"
+      ]
+    },
+    "dove": {
+      "score": 0.3,
+      "argument": "While the focus on political instability and military activity in Yemen (gdelt:695ae93575184d8d:0, gdelt:c51b7ffbb3103e73:0, gdelt:455cff104416e6ba:0, gdelt:e5c789c2d7bf3799:0, gdelt:d0b57cb496a85d14:0) is concerning, the mention of a seizure of an oil tanker (gdelt:707a00cd1c60ea63:0) does not necessarily indicate a significant disruption risk. The report suggests this could be a routine shipping activity rather than a disruption event.",
+      "cited_evidence_ids": [
+        "gdelt:695ae93575184d8d:0",
+        "gdelt:c51b7ffbb3103e73:0",
+        "gdelt:455cff104416e6ba:0",
+        "gdelt:e5c789c2d7bf3799:0",
+        "gdelt:d0b57cb496a85d14:0",
+        "gdelt:707a00cd1c60ea63:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.5,
+        0.7
+      ],
+      "disagreement_index": 0.3,
+      "rationale": "The Hawk's argument is more strongly supported by the evidence as they cite multiple pieces of information (gdelt:707a00cd1c60ea63:0, gdelt:e5c789c2d7bf3799:0) that suggest a potential disruption event involving an oil tanker seizure. The Dove's argument focuses on the political tensions and military activity in Yemen (gdelt:695ae93575184d8d:0, gdelt:c51b7ffbb3103e73:0, gdelt:455cff104416e6ba:0, gdelt:e5c789c2d7bf3799:0, gdelt:d0b57cb496a85d14:0), but these do not directly indicate a significant disruption risk for the Bab el Mandeb energy supply corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2035082715286155,
+      "vessel": 0.0188956181004893,
+      "fundamentals": 0.4137531316606219,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.447549+00:00"
+  },
+  "bab_el_mandeb::2025-12-31 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-12-31 18:00:00+00:00",
+    "tier1_composite_score": 0.2346683468419258,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While it's true that some news articles suggest ongoing political instability in Yemen (cited_evidence_ids: ['gdelt:d8fd526c2cc9e929:0', 'gdelt:9cee2c79c4f46e1d:0']) and there are positive developments in terms of energy infrastructure in East Africa (cited_evidence_ids: ['gdelt:471eb5b400f926a7:0', 'gdelt:39f67b745fe72a30:0']), it's important to note that the instability in Yemen could still potentially disrupt the Bab el Mandeb corridor. The articles mentioning Yemen are dated close to the assessment date, and there is evidence of the Houthi model and multi-drone capabilities (cited_evidence_id: 'gdelt:9cee2c79c4f46e1d:0'), suggesting a potential escalation of conflict. Therefore, the risk level remains somewhat elevated.",
+      "cited_evidence_ids": [
+        "gdelt:d8fd526c2cc9e929:0",
+        "gdelt:9cee2c79c4f46e1d:0",
+        "gdelt:471eb5b400f926a7:0",
+        "gdelt:39f67b745fe72a30:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the news sub-score is relatively low (0.230), the recent news articles do suggest increased instability in Yemen that could potentially disrupt the Bab el Mandeb corridor. Specifically, evidence_id 'gdelt:d8fd526c2cc9e929:0' does indicate infighting handing an advantage to Houthis and extremists in Yemen, as mentioned in Hawk's opening position. However, it is important to note that the positive developments in terms of energy infrastructure in East Africa (gdelt:471eb5b400f926a7:0, gdelt:39f67b745fe72a30:0) could potentially mitigate any potential disruptions. Lastly, the articles mentioning Yemen are dated before the assessment date (gdelt:d8fd526c2cc9e929:0), which could mean that the situation has improved since then.",
+      "cited_evidence_ids": [
+        "gdelt:d8fd526c2cc9e929:0",
+        "gdelt:471eb5b400f926a7:0",
+        "gdelt:39f67b745fe72a30:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.4,
+        0.6
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing evidence of increased instability in Yemen and the Houthi model with multi-drone capabilities (gdelt:d8fd526c2cc9e929:0, gdelt:9cee2c79c4f46e1d:0) are more convincing than the Dove's arguments that suggest potential mitigating factors (gdelt:471eb5b400f926a7:0, gdelt:39f67b745fe72a30:0).",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2298102558398068,
+      "vessel": 0.0443827725927091,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.517660+00:00"
+  },
+  "bab_el_mandeb::2026-01-04 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-01-04 18:00:00+00:00",
+    "tier1_composite_score": 0.2478264639136513,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the Dove's argument acknowledges the presence of multiple Yemen-related events, it fails to address the specific mention of militia activities (gdelt:3b36fe17b0e11412:0) that could potentially disrupt the Bab el Mandeb corridor. Furthermore, high-level discussions between Saudi Arabia and UAE counterparts about Yemen developments (gdelt:be13927f2e925c43:0) might not necessarily lead to a reduction in disruption risk if these conflicts involve parties that pose a threat to the corridor.",
+      "cited_evidence_ids": [
+        "gdelt:3b36fe17b0e11412:0",
+        "gdelt:be13927f2e925c43:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the Hawk's argument highlights an increase in conflict-related incidents in Yemen as indicated by multiple news articles (gdelt:dd2faf650420b5bd:0, gdelt:be13927f2e925c43:0, gdelt:d82fa091dc1af1e3:0, gdelt:3b36fe17b0e11412:0, gdelt:2cd145ca5c8d0d91:0), it's important to note that not all these incidents directly pose a threat to the Bab el Mandeb corridor. The mention of displaced people (gdelt:73026503087327e5:0) does not necessarily indicate disruption to the corridor. Furthermore, high-level discussions between Saudi Arabia and UAE counterparts about Yemen developments (gdelt:be13927f2e925c43:0) suggest diplomatic efforts to resolve conflicts, which could potentially reduce disruption risk.",
+      "cited_evidence_ids": [
+        "gdelt:dd2faf650420b5bd:0",
+        "gdelt:be13927f2e925c43:0",
+        "gdelt:d82fa091dc1af1e3:0",
+        "gdelt:3b36fe17b0e11412:0",
+        "gdelt:2cd145ca5c8d0d91:0",
+        "gdelt:73026503087327e5:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's argument (cited=['gdelt:3b36fe17b0e11412:0']) provides a specific instance of militia activity in Yemen that could potentially disrupt the Bab el Mandeb corridor, which is not adequately addressed by the Dove.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.19814782729708,
+      "vessel": 0.1313089566809606,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.600334+00:00"
+  },
+  "bab_el_mandeb::2026-01-06 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-01-06 18:00:00+00:00",
+    "tier1_composite_score": 0.2517691973096545,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While the Dove's argument acknowledges the temporary suspension of flights between Somaliland and Djibouti (gdelt:aabb8fc7ccf5d53b:0), it does not address the potential for these diplomatic tensions to escalate and impact the Bab el Mandeb corridor. Furthermore, the Dove's argument concedes the presence of military tensions in Yemen (gdelt:cf98315984c17e85:0) and Venezuela (gdelt:14363e56313c41e2:0, gdelt:5935112a8ed9cc43:0), which could potentially spill over and disrupt the corridor. The Dove's argument also overlooks the Saudi Arabian efforts to prevent UAE-Israel actions in Yemen (gdelt:1be1b149ebe17fed:0) as a potential disruption factor.",
+      "cited_evidence_ids": [
+        "gdelt:aabb8fc7ccf5d53b:0",
+        "gdelt:cf98315984c17e85:0",
+        "gdelt:14363e56313c41e2:0",
+        "gdelt:5935112a8ed9cc43:0",
+        "gdelt:1be1b149ebe17fed:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the news sub-score is relatively low (0.238), it's important to note that the escalation of military tensions in Yemen (gdelt:cf98315984c17e85:0) and Venezuela (gdelt:5935112a8ed9cc43:0, gdelt:1be1b149ebe17fed:0) could potentially lead to disruptions in the Bab el Mandeb corridor. However, the temporary suspension of flights between Somaliland and Djibouti (gdelt:aabb8fc7ccf5d53b:0) does not currently pose a significant risk.",
+      "cited_evidence_ids": [
+        "gdelt:cf98315984c17e85:0",
+        "gdelt:5935112a8ed9cc43:0",
+        "gdelt:1be1b149ebe17fed:0",
+        "gdelt:aabb8fc7ccf5d53b:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.5,
+        0.7
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing military tensions in Yemen (gdelt:cf98315984c17e85:0) and Venezuela (gdelt:5935112a8ed9cc43:0, gdelt:1be1b149ebe17fed:0), as well as diplomatic tensions between Somaliland and Djibouti (gdelt:aabb8fc7ccf5d53b:0) that could potentially escalate, are more convincing in justifying a higher disruption risk.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2383113669125305,
+      "vessel": 0.0968542452569226,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.672528+00:00"
+  },
+  "bab_el_mandeb::2026-01-08 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-01-08 18:00:00+00:00",
+    "tier1_composite_score": 0.2323367448040872,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.8,
+      "argument": "While Dove's argument acknowledges the ongoing political instability in Yemen (gdelt:7c247d478fcb0f51:0, gdelt:3db15a4a0417e5eb:0, gdelt:02db54f24a4d4416:0), it overlooks the references to armed groups and military actions by Saudi Arabia (gdelt:b36265636e816288:0, gdelt:bef95349b98720b7:0) that could potentially impact the Bab el Mandeb corridor. The absence of recent reports specifically targeting the corridor does not necessarily rule out the possibility of indirect disruptions or future escalations.",
+      "cited_evidence_ids": [
+        "gdelt:7c247d478fcb0f51:0",
+        "gdelt:3db15a4a0417e5eb:0",
+        "gdelt:02db54f24a4d4416:0",
+        "gdelt:b36265636e816288:0",
+        "gdelt:bef95349b98720b7:0"
+      ]
+    },
+    "dove": {
+      "score": 0.6,
+      "argument": "While Hawk's points about political instability and shifting alliances in Yemen (gdelt:02db54f24a4d4416:0, gdelt:3db15a4a0417e5eb:0) are well-supported, the absence of specific reports targeting the Bab el Mandeb corridor remains a crucial factor. Additionally, the news sub-score (0.264) still does not directly indicate disruption to the energy supply corridor. The routine/seasonal explanation is also a possibility as the political instability in Yemen has been ongoing for several years.",
+      "cited_evidence_ids": [
+        "gdelt:02db54f24a4d4416:0",
+        "gdelt:3db15a4a0417e5eb:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.7,
+      "confidence_band": [
+        0.65,
+        0.75
+      ],
+      "disagreement_index": 0.20000000000000007,
+      "rationale": "The Hawk's arguments citing military actions by Saudi Arabia (gdelt:b36265636e816288:0, gdelt:bef95349b98720b7:0) and shifting alliances in Yemen (gdelt:02db54f24a4d4416:0, gdelt:3db15a4a0417e5eb:0) are more strongly supported by the evidence than the Dove's arguments that focus on the absence of specific reports targeting the Bab el Mandeb corridor (gdelt:02db54f24a4d4416:0, gdelt:3db15a4a0417e5eb:0)",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2638836126038827,
+      "vessel": 0.0121075287366133,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.745780+00:00"
+  },
+  "bab_el_mandeb::2026-01-10 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-01-10 18:00:00+00:00",
+    "tier1_composite_score": 0.2357858344676612,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While some of the news articles mentioned by Dove do not directly relate to political instability in Yemen or disruptions in the Bab el Mandeb corridor (gdelt:6b8acfe75109b142:0, gdelt:0c5e3f7715809a07:0, gdelt:b895549723706195:0, gdelt:9f0861bb4ca9cafe:0), the article with id 'gdelt:7c247d478fcb0f51:0' does mention Aidarous al Zubaidi, a key figure in Yemen's political instability, and refers to armed groups, government troops, and foreign military involvement. Additionally, the article with id 'gdelt:1939a517b0e2ea95:0' discusses a disputed dissolution by separatists in Riyadh, which could potentially impact Yemen's political stability and thus the corridor. Therefore, while some of Dove's points are valid, the evidence still suggests a moderate risk for disruptions in the Bab el Mandeb corridor.",
+      "cited_evidence_ids": [
+        "gdelt:7c247d478fcb0f51:0",
+        "gdelt:1939a517b0e2ea95:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the news sub-score is relatively low (0.248), it's important to acknowledge that the articles cited by Hawk do suggest potential political instability in Yemen. However, the article 'gdelt:7c247d478fcb0f51:0' refers to Aidarous al Zubaidi being labeled a traitor by the government troops, but it does not necessarily indicate an immediate threat to the Bab el Mandeb corridor. Similarly, the announcement of a disputed dissolution (gdelt:1939a517b0e2ea95:0) and references to militias (gdelt:23ab1399c4e8beeb:0) might be internal Yemen matters that may or may not directly impact the corridor. Therefore, while these events should be monitored closely, they do not necessarily warrant a significant increase in disruption risk for the Bab el Mandeb corridor at this time.",
+      "cited_evidence_ids": [
+        "gdelt:7c247d478fcb0f51:0",
+        "gdelt:1939a517b0e2ea95:0",
+        "gdelt:23ab1399c4e8beeb:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.45,
+        0.55
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing evidence of political instability in Yemen (gdelt:7c247d478fcb0f51:0, gdelt:1939a517b0e2ea95:0) are more convincingly supported by the data than Dove's arguments citing evidence of unrelated news articles (gdelt:6b8acfe75109b142:0, gdelt:0c5e3f7715809a07:0, gdelt:b895549723706195:0, gdelt:9f0861bb4ca9cafe:0). However, the evidence does not clearly indicate an immediate high risk for disruptions in the Bab el Mandeb corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2481844839323983,
+      "vessel": 0.0212816935092347,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.816332+00:00"
+  },
+  "bab_el_mandeb::2026-01-13 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-01-13 18:00:00+00:00",
+    "tier1_composite_score": 0.2285924594655254,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While Dove raises a valid point about the high volume of general Yemen-related articles (gdelt:139879cdc49675d3:0, gdelt:2fb637b87f3f06f5:0, gdelt:6b8acfe75109b142:0, gdelt:0c5e3f7715809a07:0), these articles do not necessarily diminish the disruption risk for the Bab el Mandeb corridor. The reports of armed groups and military officials involved in Yemen (gdelt:7c247d478fcb0f51:0, gdelt:31af53ce102a8167:0), potential involvement of foreign powers such as the United Arab Emirates (UAE) and Qatar (gdelt:733bea42c9ce700c:0), and mention of a Yemeni militia (gdelt:31af53ce102a8167:0) still indicate a potential threat to the corridor's operations.",
+      "cited_evidence_ids": [
+        "gdelt:7c247d478fcb0f51:0",
+        "gdelt:31af53ce102a8167:0",
+        "gdelt:733bea42c9ce700c:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the news sub-score may still be inflated due to a high volume of general Yemen-related articles (gdelt:139879cdc49675d3:0, gdelt:2fb637b87f3f06f5:0, gdelt:6b8acfe75109b142:0, gdelt:0c5e3f7715809a07:0), Hawk's points about the involvement of armed groups and military officials in Yemen (gdelt:7c247d478fcb0f51:0, gdelt:31af53ce102a8167:0) and potential foreign involvement (gdelt:733bea42c9ce700c:0) are well-supported by the evidence. The mention of Yemenis being lured into the Russian army (gdelt:74398f6a3b2b98a9:0) also raises concerns about potential disruptions.",
+      "cited_evidence_ids": [
+        "gdelt:7c247d478fcb0f51:0",
+        "gdelt:733bea42c9ce700c:0",
+        "gdelt:74398f6a3b2b98a9:0",
+        "gdelt:31af53ce102a8167:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.6,
+        0.7
+      ],
+      "disagreement_index": 0.19999999999999996,
+      "rationale": "The Hawk's arguments about the involvement of armed groups and military officials in Yemen (gdelt:7c247d478fcb0f51:0, gdelt:31af53ce102a8167:0) and potential foreign involvement (gdelt:733bea42c9ce700c:0) are better supported by the evidence than Dove's arguments about the high volume of general Yemen-related articles that do not specifically pertain to the Bab el Mandeb corridor (gdelt:139879cdc49675d3:0, gdelt:2fb637b87f3f06f5:0, gdelt:6b8acfe75109b142:0, gdelt:0c5e3f7715809a07:0). The mention of Yemenis being lured into the Russian army (gdelt:74398f6a3b2b98a9:0) also raises concerns about potential disruptions.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2208845057633218,
+      "vessel": 0.0380705169327277,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.885612+00:00"
+  },
+  "bab_el_mandeb::2026-01-23 00:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-01-23 00:00:00+00:00",
+    "tier1_composite_score": 0.2510818899768771,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the Dove's argument about the potential for peace and stability through talks between Somalia and Sudan (gdelt:7d8ee1f2464cf43f:0) is valid, it does not outweigh the evidence of ongoing security issues in Yemen such as torture in a UAE-run prison (gdelt:8a634a220c809c59:0) and secret prisons with explosives violations (gdelt:59f819263cc6e1c4:0). These issues suggest a higher risk of instability in the region.",
+      "cited_evidence_ids": [
+        "gdelt:8a634a220c809c59:0",
+        "gdelt:59f819263cc6e1c4:0"
+      ]
+    },
+    "dove": {
+      "score": 0.3,
+      "argument": "While the Hawk's points about the reports of torture in a UAE-run prison (gdelt:8a634a220c809c59:0) and secret prisons in Hadhramaut, Mukalla with explosives violations (gdelt:59f819263cc6e1c4:0) are concerning, they do not necessarily indicate a higher risk of instability if we consider the Al Jazeera report's claim that the detainee was recounting past events. The ongoing talks between Somalia and Sudan on Red Sea and Bab el Mandab security (gdelt:7d8ee1f2464cf43f:0) can indeed indicate potential geopolitical tensions, but they also suggest a proactive effort towards regional stability.",
+      "cited_evidence_ids": [
+        "gdelt:8a634a220c809c59:0",
+        "gdelt:59f819263cc6e1c4:0",
+        "gdelt:7d8ee1f2464cf43f:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.4,
+        0.6
+      ],
+      "disagreement_index": 0.2,
+      "rationale": "The Hawk's arguments about the reports of torture in a UAE-run prison (gdelt:8a634a220c809c59:0) and secret prisons in Hadhramaut, Mukalla with explosives violations (gdelt:59f819263cc6e1c4:0) are more strongly supported by the evidence, as they provide specific details about security issues in Yemen.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1835754500512629,
+      "vessel": 0.0567630266734617,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:16.957679+00:00"
+  },
+  "bab_el_mandeb::2026-01-24 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-01-24 18:00:00+00:00",
+    "tier1_composite_score": 0.2503133319699866,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.45,
+      "argument": "While Dove's points about ongoing talks between Somalia and Sudan (gdelt:7d8ee1f2464cf43f:0) and the completion of solar power plants handover by a UAE utility to the Yemeni government (gdelt:4f3bac0965becacc:0) are valid, they do not outweigh the evidence of potential human rights violations in the UAE-run prison as reported by a Yemeni detainee (gdelt:8a634a220c809c59:0). The mention of militias and mercenaries in Yemen (gdelt:98eb365c276d10ad:0, gdelt:ff268f882ee944a8:0) further highlights the potential for conflict that could disrupt the Bab el Mandeb corridor. The rally of southern Yemeni forces in Riyadh ahead of a key Saudi-sponsored dialogue (gdelt:f3d3749a58829ce7:0) suggests internal political instability within Yemen that could impact the corridor's security.",
+      "cited_evidence_ids": [
+        "gdelt:8a634a220c809c59:0",
+        "gdelt:98eb365c276d10ad:0",
+        "gdelt:ff268f882ee944a8:0",
+        "gdelt:f3d3749a58829ce7:0"
+      ]
+    },
+    "dove": {
+      "score": 0.3,
+      "argument": "While the report of a Yemeni detainee being tortured in a UAE run prison (gdelt:8a634a220c809c59:0) is concerning and could lead to international backlash as Hawk stated, it does not necessarily indicate an immediate disruption to the Bab el Mandeb corridor. The ongoing talks between Somalia and Sudan on Red Sea and Bab el Mandab security (gdelt:7d8ee1f2464cf43f:0) could potentially improve the situation as I mentioned in my opening position. The mention of militias and mercenaries in Yemen (gdelt:98eb365c276d10ad:0, gdelt:ff268f882ee944a8:0) does not necessarily imply disruption to the corridor as Yemen is a part of the region. The rally of southern Yemeni forces in Riyadh ahead of a key Saudi-sponsored dialogue (gdelt:f3d3749a58829ce7:0) could indicate internal political instability within Yemen that could impact the corridor's security, but it is not yet clear how this will play out.",
+      "cited_evidence_ids": [
+        "gdelt:8a634a220c809c59:0",
+        "gdelt:7d8ee1f2464cf43f:0",
+        "gdelt:98eb365c276d10ad:0",
+        "gdelt:ff268f882ee944a8:0",
+        "gdelt:f3d3749a58829ce7:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.4,
+        0.6
+      ],
+      "disagreement_index": 0.15000000000000002,
+      "rationale": "The Hawk's arguments citing the report of a Yemeni detainee being tortured in a UAE-run prison (gdelt:8a634a220c809c59:0) and the mention of militias and mercenaries in Yemen (gdelt:98eb365c276d10ad:0, gdelt:ff268f882ee944a8:0) are more strongly supported by the evidence as they directly highlight potential conflict that could disrupt the Bab el Mandeb corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2114748499962815,
+      "vessel": 0.1233649350478702,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:17.032378+00:00"
+  },
+  "bab_el_mandeb::2025-10-18 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-10-18 18:00:00+00:00",
+    "tier1_composite_score": 0.361775623588604,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While the Dove's analysis correctly points out that the vessel sub-score is relatively low (0.556), it is important to note that the explosion aboard a Cameroonian oil tanker off Yemen (gdelt:6681cc90c9b3c090:0, gdelt:e49e7971c0924e16:0) could potentially escalate into a larger disruption if the situation is not properly managed. The presence of militia in Yemen (gdelt:a0758af52cdb60de:0), potential involvement of Iran (gdelt:9ccc8f629ba17d34:0), and news about government forces and militants (gdelt:eaea385d6182ef8a:0, gdelt:d8400be132e0ed03:0) indicate an unstable political environment that could potentially escalate the situation.",
+      "cited_evidence_ids": [
+        "gdelt:6681cc90c9b3c090:0",
+        "gdelt:e49e7971c0924e16:0",
+        "gdelt:a0758af52cdb60de:0",
+        "gdelt:9ccc8f629ba17d34:0",
+        "gdelt:eaea385d6182ef8a:0",
+        "gdelt:d8400be132e0ed03:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the Hawk's points about the explosions aboard a Cameroonian oil tanker (gdelt:6681cc90c9b3c090:0, gdelt:e49e7971c0924e16:0) and the presence of militia in Yemen (gdelt:a0758af52cdb60de:0) are supported by the evidence, it's important to note that the vessel sub-score remains relatively low (0.556), suggesting that disruptions to shipping in this corridor are not typically severe. The potential involvement of Iran (gdelt:9ccc8f629ba17d34:0) and news about government forces and militants (gdelt:eaea385d6182ef8a:0, gdelt:d8400be132e0ed03:0) do indicate an unstable political environment, but the specific impact on the energy supply chain is not detailed in these reports.",
+      "cited_evidence_ids": [
+        "gdelt:6681cc90c9b3c090:0",
+        "gdelt:e49e7971c0924e16:0",
+        "gdelt:a0758af52cdb60de:0",
+        "gdelt:9ccc8f629ba17d34:0",
+        "gdelt:eaea385d6182ef8a:0",
+        "gdelt:d8400be132e0ed03:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.5,
+        0.7
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing the explosions aboard a Cameroonian oil tanker (gdelt:6681cc90c9b3c090:0, gdelt:e49e7971c0924e16:0) and the presence of militia in Yemen (gdelt:a0758af52cdb60de:0), potential involvement of Iran (gdelt:9ccc8f629ba17d34:0), and news about government forces and militants (gdelt:eaea385d6182ef8a:0, gdelt:d8400be132e0ed03:0) are more strongly supported by the evidence than the Dove's arguments.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1921140343572934,
+      "vessel": 0.5556745827101018,
+      "fundamentals": NaN,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:17.107925+00:00"
+  },
+  "bab_el_mandeb::2026-01-30 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-01-30 18:00:00+00:00",
+    "tier1_composite_score": 0.2335520696569881,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.55,
+      "argument": "While the Dove's argument acknowledges the ongoing talks between Somalia and Sudan (gdelt:7d8ee1f2464cf43f:0) as a positive step towards maintaining stability, it is important to note that the report of torture in a UAE-run prison in Yemen (gdelt:8a634a220c809c59:0) could potentially be a symptom of broader regional instability. This incident, though isolated, may indicate a more complex and unstable political climate that could lead to increased disruptions in the Bab el Mandeb corridor.",
+      "cited_evidence_ids": [
+        "gdelt:8a634a220c809c59:0",
+        "gdelt:7d8ee1f2464cf43f:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the report of torture in a UAE-run prison in Yemen (gdelt:8a634a220c809c59:0) does indicate potential instability within the region, it is important to note that this incident is isolated and may not necessarily lead to widespread disruptions in the Bab el Mandeb corridor. The ongoing talks between Somalia and Sudan on Red Sea and Bab al Mandab security (gdelt:7d8ee1f2464cf43f:0) indeed suggest a potential escalation of regional tensions, but they also demonstrate a regional effort towards maintaining stability, which could mitigate disruption risks. The United Nations' involvement in Yemen (gdelt:7f4b1804b32f8a8e:0) highlights the region's complex political landscape and potential for instability, but it does not necessarily indicate an increased risk for the Bab el Mandeb corridor.",
+      "cited_evidence_ids": [
+        "gdelt:8a634a220c809c59:0",
+        "gdelt:7d8ee1f2464cf43f:0",
+        "gdelt:7f4b1804b32f8a8e:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.5,
+        0.7
+      ],
+      "disagreement_index": 0.15000000000000002,
+      "rationale": "The Hawk's arguments citing the report of torture in a UAE-run prison in Yemen (gdelt:8a634a220c809c59:0) and the ongoing talks between Somalia and Sudan on Red Sea and Bab al Mandeb security (gdelt:7d8ee1f2464cf43f:0) are more convincingly supported by the evidence, as they provide a clearer indication of potential instability and regional tensions that could impact the corridor's stability.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1643140637563607,
+      "vessel": 0.0071453031115751,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:17.183657+00:00"
+  },
+  "bab_el_mandeb::2026-02-17 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-02-17 18:00:00+00:00",
+    "tier1_composite_score": 0.4107395840968593,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While Dove's assessment that the news articles do not indicate a significant disruption risk for the Bab el Mandeb corridor is plausible, the mention of a new 'great game' (gdelt:3a7630218d77856c:0) and increased geopolitical tension could potentially lead to unforeseen instability in the region. Furthermore, the military involvement (gdelt:444333b158abd198:0) and strategic moves such as the attendance of a Mogadishu port deputy manager at an intermodal Africa conference in Djibouti (gdelt:741f586595b4da46:0) could still pose potential risks to the energy supply chain.",
+      "cited_evidence_ids": [
+        "gdelt:3a7630218d77856c:0",
+        "gdelt:444333b158abd198:0",
+        "gdelt:741f586595b4da46:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the increased news coverage about Yemen (gdelt:c2684233bb676987:0, gdelt:b12a83d6483018b0:0, gdelt:6060377feb892d34:0, gdelt:f81531f9e53b9c3c:0) does suggest potential instability in the region, it is important to note that the articles do not indicate an immediate disruption risk for the Bab el Mandeb corridor. The mention of a new 'great game' (gdelt:3a7630218d77856c:0) and military involvement (gdelt:444333b158abd198:0) are strategic developments that may impact the region's geopolitical landscape, but do not necessarily imply increased violence or direct threats to energy supply chains. The attendance of a Mogadishu port deputy manager at an intermodal Africa conference in Djibouti (gdelt:741f586595b4da46:0) could be a strategic move to secure alternative routes or alliances, rather than a sign of imminent disruption.",
+      "cited_evidence_ids": [
+        "gdelt:3a7630218d77856c:0",
+        "gdelt:c2684233bb676987:0",
+        "gdelt:b12a83d6483018b0:0",
+        "gdelt:6060377feb892d34:0",
+        "gdelt:f81531f9e53b9c3c:0",
+        "gdelt:741f586595b4da46:0",
+        "gdelt:b84f34199e797f2d:0",
+        "gdelt:444333b158abd198:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.45,
+        0.55
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Hawk's arguments citing the mention of a new 'great game' (gdelt:3a7630218d77856c:0) and increased geopolitical tension, as well as military involvement (gdelt:444333b158abd198:0), are more convincing in suggesting potential disruption risks for the Bab el Mandeb corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1890074362123139,
+      "vessel": 0.7288714183447657,
+      "fundamentals": 0.2859093954543115,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:17.252567+00:00"
+  },
+  "bab_el_mandeb::2026-02-22 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-02-22 18:00:00+00:00",
+    "tier1_composite_score": 0.3375888674089446,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While Dove's analysis highlights the lack of direct links between recent news and specific disruptions in the Bab el Mandeb corridor, it is important to consider the broader context. The mentions of Yemen (gdelt:4b5661373739065c:0, gdelt:8fd5a8fefc8ca4bf:0, gdelt:9f0afeddee3645b0:0, gdelt:df76d717377a4992:0, gdelt:d33e0bbc7e40aa68:0, gdelt:fb6961c12e66b8bf:0, gdelt:bec3cf672a7d9021:0) and the reference to a 'new great game' (gdelt:3a7630218d77856c:0) suggest ongoing geopolitical tensions in the region, which could potentially escalate and impact the corridor. Therefore, while the news sub-score may be relatively high compared to the composite score, it does not necessarily diminish the potential risk of disruptions.",
+      "cited_evidence_ids": [
+        "gdelt:3a7630218d77856c:0",
+        "gdelt:4b5661373739065c:0",
+        "gdelt:8fd5a8fefc8ca4bf:0",
+        "gdelt:9f0afeddee3645b0:0",
+        "gdelt:df76d717377a4992:0",
+        "gdelt:d33e0bbc7e40aa68:0",
+        "gdelt:fb6961c12e66b8bf:0",
+        "gdelt:bec3cf672a7d9021:0"
+      ]
+    },
+    "dove": {
+      "score": 0.3,
+      "argument": "While it is true that recent news mentions of Yemen (gdelt:3a7630218d77856c:0, gdelt:4b5661373739065c:0, gdelt:df76d717377a4992:0, gdelt:d33e0bbc7e40aa68:0, gdelt:fb6961c12e66b8bf:0, gdelt:bec3cf672a7d9021:0) could potentially indicate instability in the region, it is important to note that not all of these articles directly link these developments to the Bab el Mandeb corridor. Furthermore, the mention of militias (gdelt:9f0afeddee3645b0:0, gdelt:d33e0bbc7e40aa68:0) and a king (gdelt:fb6961c12e66b8bf:0) does suggest internal conflicts that could impact the corridor's security, but it is not definitive evidence of imminent disruptions. Therefore, while there may be potential for increased risk, it is not as high as suggested in the Hawk's opening position.",
+      "cited_evidence_ids": [
+        "gdelt:3a7630218d77856c:0",
+        "gdelt:4b5661373739065c:0",
+        "gdelt:df76d717377a4992:0",
+        "gdelt:d33e0bbc7e40aa68:0",
+        "gdelt:fb6961c12e66b8bf:0",
+        "gdelt:bec3cf672a7d9021:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.4,
+        0.6
+      ],
+      "disagreement_index": 0.10000000000000003,
+      "rationale": "Both analysts provide valid arguments based on the news evidence. However, the Hawk's argument that mentions of Yemen and a 'new great game' suggest ongoing geopolitical tensions in the region, which could potentially escalate and impact the corridor, is more strongly supported by the evidence gdelt:3a7630218d77856c:0. The Dove's argument that not all news articles directly link developments to the Bab el Mandeb corridor is also valid, but it does not fully counter the Hawk's point about ongoing geopolitical tensions.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1834613471700275,
+      "vessel": 0.5506485133638738,
+      "fundamentals": 0.2859093954543115,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:17.317114+00:00"
+  },
+  "bab_el_mandeb::2026-02-26 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-02-26 18:00:00+00:00",
+    "tier1_composite_score": 0.3817692582880224,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While the Dove's analysis correctly identifies that some of the news articles do not directly indicate a disruption risk for the Bab el Mandeb corridor (gdelt:092b6c1de263704c:0, gdelt:0b8a2143a6b2c1c9:0), other pieces of evidence suggest potential escalation. For example, the mention of militant activities in Yemen (gdelt:7f7882f314f0532f:0) and the presence of Iran (gdelt:dd90494bd5990313:0), a known regional power with conflicting interests, could still pose a threat to the corridor's security.",
+      "cited_evidence_ids": [
+        "gdelt:7f7882f314f0532f:0",
+        "gdelt:dd90494bd5990313:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While Hawk's points about increased news activity related to Yemen (gdelt:6d6eb6e8b0490b1a:0, gdelt:7f7882f314f0532f:0, gdelt:9f0afeddee3645b0:0) and the mention of militant activities (gdelt:7f7882f314f0532f:0) are valid, they do not necessarily indicate a direct threat or disruption to the Bab el Mandeb corridor. The presence of Iran (gdelt:dd90494bd5990313:0) and Turkey (gdelt:4b5661373739065c:0) in the region could potentially increase the risk of disruption, but without specific evidence linking these countries to activities in the corridor, it remains unclear. The UN's involvement (gdelt:9f0afeddee3645b0:0) does suggest a heightened international concern, which should be monitored closely.",
+      "cited_evidence_ids": [
+        "gdelt:6d6eb6e8b0490b1a:0",
+        "gdelt:7f7882f314f0532f:0",
+        "gdelt:9f0afeddee3645b0:0",
+        "gdelt:dd90494bd5990313:0",
+        "gdelt:4b5661373739065c:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.4,
+        0.6
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments about increased news activity related to Yemen (gdelt:6d6eb6e8b0490b1a:0, gdelt:7f7882f314f0532f:0, gdelt:9f0afeddee3645b0:0) and the mention of militant activities (gdelt:7f7882f314f0532f:0) are supported by more evidence than the Dove's arguments. However, the Dove's point about some news articles not directly indicating a disruption risk for the Bab el Mandeb corridor (gdelt:092b6c1de263704c:0, gdelt:0b8a2143a6b2c1c9:0) is also valid.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1856475236108954,
+      "vessel": 0.6737300088417643,
+      "fundamentals": 0.2859093954543115,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:17.388354+00:00"
+  },
+  "bab_el_mandeb::2026-03-06 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-03-06 18:00:00+00:00",
+    "tier1_composite_score": 0.219979318159283,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While it is true that some of the news articles do not directly indicate a significant disruption risk for the Bab el Mandeb corridor (cited_evidence_ids: ['gdelt:41330b74f7c0e3ac:0', 'gdelt:51991e54db7111df:0', 'gdelt:70b93061904770f4:0']), the articles do suggest increased regional tensions (cited_evidence_ids: ['gdelt:9ebeee6bc2cac4ec:0']) and potential conflicts between Middle Eastern countries (cited_evidence_ids: ['gdelt:9ebeee6bc2cac4ec:0', 'gdelt:f0049a7710504f00:0']). These tensions could indirectly lead to disruptions in the energy supply chain through various means, such as increased military activity or political instability. Furthermore, the reported drone strike in Djibouti (cited_evidence_ids: ['gdelt:c9880854cffb114f:0']) could potentially disrupt shipping in the Bab el Mandeb corridor if it escalates further.",
+      "cited_evidence_ids": [
+        "gdelt:9ebeee6bc2cac4ec:0",
+        "gdelt:f0049a7710504f00:0",
+        "gdelt:c9880854cffb114f:0"
+      ]
+    },
+    "dove": {
+      "score": 0.7,
+      "argument": "While it is true that there are reports of increased regional tensions (gdelt:9ebeee6bc2cac4ec:0, gdelt:f0049a7710504f00:0) and potential conflicts between Middle Eastern countries, the news sub-score is relatively high (0.255) primarily due to a large number of articles discussing general statements about regional security measures taken by countries like Saudi Arabia and Kuwait (gdelt:41330b74f7c0e3ac:0). Furthermore, while there has been a report of a drone strike in Djibouti that resulted in casualties (gdelt:c9880854cffb114f:0), it is important to note that this incident does not necessarily imply a disruption to the energy supply chain in the Bab el Mandeb corridor. Therefore, while there may be some increased risk, it is not as high as suggested by the Hawk's position.",
+      "cited_evidence_ids": [
+        "gdelt:9ebeee6bc2cac4ec:0",
+        "gdelt:f0049a7710504f00:0",
+        "gdelt:41330b74f7c0e3ac:0",
+        "gdelt:c9880854cffb114f:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.7,
+      "confidence_band": [
+        0.65,
+        0.75
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing increased regional tensions (gdelt:9ebeee6bc2cac4ec:0, gdelt:f0049a7710504f00:0) and a potential drone strike disruption (gdelt:c9880854cffb114f:0) are more well-supported by the evidence than the Dove's arguments citing general security measures (gdelt:41330b74f7c0e3ac:0) and indirect threats to the corridor (gdelt:51991e54db7111df:0, gdelt:70b93061904770f4:0)",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.255101516868166,
+      "vessel": 0.0429068146339671,
+      "fundamentals": 0.3939772195350287,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:17.454102+00:00"
+  },
+  "bab_el_mandeb::2026-03-12 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-03-12 18:00:00+00:00",
+    "tier1_composite_score": 0.2195172468853586,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While Dove's argument acknowledges the internal conflicts within Yemen, it overlooks the potential indirect impact of these conflicts on the Bab el Mandeb corridor. The mention of Iran and its allies threatening another attack (gdelt:07c34d85beec39d6:0) could escalate regional tensions, leading to disruptions in shipping routes. Furthermore, the rerouting of ships due to Middle East tensions (gdelt:5c8ebf93f327ae8a:0) does specify a corridor, as it is the Bab el Mandeb strait where such rerouting occurs most frequently.",
+      "cited_evidence_ids": [
+        "gdelt:07c34d85beec39d6:0",
+        "gdelt:5c8ebf93f327ae8a:0"
+      ]
+    },
+    "dove": {
+      "score": 0.7,
+      "argument": "While the Hawk's argument highlights valid concerns about escalating tensions in the region (gdelt:75942479914b9900:0, gdelt:07c34d85beec39d6:0, gdelt:d0e49d7a0282b014:0), the direct impact on the Bab el Mandeb corridor remains unclear. The rerouting of ships (gdelt:5c8ebf93f327ae8a:0) does not necessarily imply a disruption in this specific corridor. Furthermore, the ongoing clashes and separatist protests in Yemen (gdelt:a4a589d287a30473:0, gdelt:2462a3bcafbaa0f9:0) do not directly indicate a threat to Bab el Mandeb. However, the potential for indirect effects cannot be completely ruled out.",
+      "cited_evidence_ids": [
+        "gdelt:75942479914b9900:0",
+        "gdelt:07c34d85beec39d6:0",
+        "gdelt:d0e49d7a0282b014:0",
+        "gdelt:5c8ebf93f327ae8a:0",
+        "gdelt:a4a589d287a30473:0",
+        "gdelt:2462a3bcafbaa0f9:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.55,
+        0.7
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments (gdelt:75942479914b9900:0, gdelt:07c34d85beec39d6:0) provide evidence of escalating tensions in the region that could potentially impact the Bab el Mandeb corridor. The Dove's argument (gdelt:5c8ebf93f327ae8a:0) about rerouting of ships due to Middle East tensions supports the Hawk's claim, although it does not specify the corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.267234108553562,
+      "vessel": 0.0240402206101214,
+      "fundamentals": 0.3939772195350287,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T05:55:17.517061+00:00"
+  },
+  "bab_el_mandeb::2026-03-16 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-03-16 18:00:00+00:00",
+    "tier1_composite_score": 0.5157289207768251,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.6,
+      "argument": "While the Dove's argument acknowledges the potential inflated news sub-score due to Iran's involvement in the Bab el Mandeb Strait (gdelt:75942479914b9900:0, gdelt:53f7618e235032ae:0, gdelt:7eb24279f169eb05:0, gdelt:08ecab346ec4fc6d:0), it overlooks the report gdelt:5c8ebf93f327ae8a:0 which suggests shipping giants have rerouted specifically in the Bab el Mandeb Strait amid Middle East tensions, indicating a potential disruption risk. The Dove's argument also fails to address the report gdelt:31661a693e55a21b:0 which mentions Yemen, a country directly related to the Bab el Mandeb Strait disruption risk.",
+      "cited_evidence_ids": [
+        "gdelt:75942479914b9900:0",
+        "gdelt:53f7618e235032ae:0",
+        "gdelt:7eb24279f169eb05:0",
+        "gdelt:08ecab346ec4fc6d:0",
+        "gdelt:5c8ebf93f327ae8a:0",
+        "gdelt:31661a693e55a21b:0"
+      ]
+    },
+    "dove": {
+      "score": 0.55,
+      "argument": "While the news sub-score is relatively low compared to other scores, it's important to note that the reports do suggest a potential escalation of tensions between Iran and Yemen in the Bab el Mandeb Strait (gdelt:53f7618e235032ae:0, gdelt:7eb24279f169eb05:0, gdelt:08ecab346ec4fc6d:0). However, the reports do not provide concrete evidence of immediate disruption to the energy supply chain. The report gdelt:5c8ebf93f327ae8a:0 suggests shipping giants have rerouted amid Middle East tensions, but it does not specify the Strait in question. Therefore, while the risk may be higher than the Tier 1 quantitative baseline, it's still not as high as suggested by the news sub-score.",
+      "cited_evidence_ids": [
+        "gdelt:53f7618e235032ae:0",
+        "gdelt:7eb24279f169eb05:0",
+        "gdelt:08ecab346ec4fc6d:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.04999999999999993,
+      "rationale": "The Hawk's argument is more convincing as it cites evidence (gdelt:5c8ebf93f327ae8a:0) that shipping giants have rerouted specifically in the Bab el Mandeb Strait amid Middle East tensions, indicating a potential disruption risk. This evidence is not addressed by the Dove.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.3102053965299167,
+      "vessel": 0.8375784493745749,
+      "fundamentals": 0.3939772195350287,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:01:06.542283+00:00"
+  },
+  "bab_el_mandeb::2026-04-06 00:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-04-06 00:00:00+00:00",
+    "tier1_composite_score": 0.495629067046387,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the Dove's argument acknowledges multiple news reports suggesting a potential conflict involving Iran and the Bab el Mandeb Strait, it is important to note that these reports indicate threats to close or disrupt the strait (cited_evidence_ids: ['gdelt:c68e0a01186f62ec:0', 'gdelt:9a2ee4b7f7402cdc:0', 'gdelt:3a375801efd2e504:0', 'gdelt:0116849d51c68113:0']). This could lead to disruptions in oil shipping (cited_evidence_ids: ['gdelt:3a375801efd2e504:0']) and potentially a broader conflict, as Iran has threatened to open a new front in the region (cited_evidence_ids: ['gdelt:75619e67ec133903:0']). The news sub-score is currently 0.322, but the recent increase in conflict-related news may indicate a higher disruption risk than the Tier 1 quantitative baseline suggests. However, the Dove's argument also mentions that there is no recent escalation in vessel disruptions or fundamentals sub-scores. This contradiction warrants further investigation to determine if the increased news reports are merely speculative or indicative of a growing risk.",
+      "cited_evidence_ids": [
+        "gdelt:c68e0a01186f62ec:0",
+        "gdelt:9a2ee4b7f7402cdc:0",
+        "gdelt:3a375801efd2e504:0",
+        "gdelt:0116849d51c68113:0",
+        "gdelt:75619e67ec133903:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While there are indeed reports of potential conflict escalation involving Iran and the Bab el Mandeb Strait (cited_evidence_ids: ['gdelt:c68e0a01186f62ec:0', 'gdelt:9a2ee4b7f7402cdc:0', 'gdelt:3a375801efd2e504:0', 'gdelt:0116849d51c68113:0']), it's important to note that the news sub-score has only slightly increased from our previous assessment (from 0.317 to 0.322). Furthermore, there is evidence suggesting that Iran may be seeking to counter US reports rather than actively escalating the situation (cited_evidence_id: 'gdelt:048876fe2dd160ac:0'). The recent increase in news reports does indicate a higher disruption risk compared to our previous assessment, but it still falls short of justifying a significant increase in the Tier 1 quantitative score.",
+      "cited_evidence_ids": [
+        "gdelt:048876fe2dd160ac:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.55,
+      "confidence_band": [
+        0.45,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's argument citing threats to close or disrupt the Bab el Mandeb Strait and potential broader conflict (cited_evidence_ids: ['gdelt:c68e0a01186f62ec:0', 'gdelt:9a2ee4b7f7402cdc:0', 'gdelt:3a375801efd2e504:0', 'gdelt:0116849d51c68113:0']) is more strongly supported by the evidence compared to the Dove's argument that there is no recent escalation in vessel disruptions or fundamentals sub-scores (cited_evidence_ids: ['gdelt:0c680e05c45f58b3:0', 'gdelt:c68e0a01186f62ec:0', 'gdelt:9a2ee4b7f7402cdc:0', 'gdelt:048876fe2dd160ac:0', 'gdelt:3a375801efd2e504:0', 'gdelt:0116849d51c68113:0']). However, the increase in news reports does indicate a higher disruption risk compared to our previous assessment, but it still falls short of justifying a significant increase in the Tier 1 quantitative score.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.32235161681031,
+      "vessel": 0.2376169496094744,
+      "fundamentals": 1.0,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:09:40.067544+00:00"
+  },
+  "bab_el_mandeb::2026-04-13 06:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-04-13 06:00:00+00:00",
+    "tier1_composite_score": 0.4593593783545846,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.6,
+      "argument": "While Dove acknowledges the informational nature of some articles, the increased frequency and intensity of news articles discussing potential conflicts involving Iran in or near the Bab el Mandeb corridor (gdelt:0c680e05c45f58b3:0, gdelt:7016b45717e7ee7a:0, gdelt:3a375801efd2e504:0, gdelt:0116849d51c68113:0) suggest a higher risk of disruption. Furthermore, articles discussing Iran's possible involvement in closing the strait (gdelt:9a2ee4b7f7402cdc:0, gdelt:13390267c8270ca4:0, gdelt:2255111d9823bc98:0) and potential war (gdelt:0c680e05c45f58b3:0, gdelt:3a375801efd2e504:0) still warrant concern.",
+      "cited_evidence_ids": [
+        "gdelt:0c680e05c45f58b3:0",
+        "gdelt:7016b45717e7ee7a:0",
+        "gdelt:3a375801efd2e504:0",
+        "gdelt:0116849d51c68113:0",
+        "gdelt:9a2ee4b7f7402cdc:0",
+        "gdelt:13390267c8270ca4:0",
+        "gdelt:2255111d9823bc98:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the increased attention to potential disruptions in the Bab el Mandeb corridor is concerning (cited_evidence_ids: ['gdelt:9a2ee4b7f7402cdc:0', 'gdelt:13390267c8270ca4:0', 'gdelt:2255111d9823bc98:0']), it's important to note that these articles also indicate Iranian warnings and threats, not actual actions. The absence of concrete evidence for Iranian disruption (cited_evidence_ids: ['gdelt:0c680e05c45f58b3:0', 'gdelt:3a375801efd2e504:0']) supports the initial assessment that the risk of an imminent disruption to the energy supply chain in this corridor remains relatively low.",
+      "cited_evidence_ids": [
+        "gdelt:9a2ee4b7f7402cdc:0",
+        "gdelt:13390267c8270ca4:0",
+        "gdelt:2255111d9823bc98:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.5,
+        0.7
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Hawk's arguments citing increased frequency and intensity of news articles discussing potential conflicts involving Iran in or near the Bab el Mandeb corridor (gdelt:0c680e05c45f58b3:0, gdelt:7016b45717e7ee7a:0, gdelt:3a375801efd2e504:0, gdelt:0116849d51c68113:0) and Iran's possible involvement in closing the strait (gdelt:9a2ee4b7f7402cdc:0, gdelt:13390267c8270ca4:0, gdelt:2255111d9823bc98:0) are more convincing than the Dove's arguments that focus on informational pieces about the strategic importance of Bab el Mandeb and potential conflicts in the region.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2466028106747575,
+      "vessel": 0.0881280877258672,
+      "fundamentals": 1.0,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:22:47.049306+00:00"
+  },
+  "bab_el_mandeb::2026-04-20 12:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-04-20 12:00:00+00:00",
+    "tier1_composite_score": 0.5811310614661866,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.6,
+      "argument": "While Dove's assessment of the ongoing threats from Iran to close the Bab el Mandeb strait is correct (gdelt:13390267c8270ca4:0, gdelt:2255111d9823bc98:0, gdelt:71742513cfc8d31a:0), the lack of new evidence suggesting an imminent disruption is not a strong argument for a reduced risk. The mention of Israel and Saudi Arabia's readiness to keep the strait open (gdelt:7016b45717e7ee7a:0) does not necessarily counterbalance the potential for Iranian action, as tensions remain high. Furthermore, the mention of another potential war for oil (gdelt:85a9785f4b583e4d:0) could still contribute to a higher disruption risk.",
+      "cited_evidence_ids": [
+        "gdelt:13390267c8270ca4:0",
+        "gdelt:2255111d9823bc98:0",
+        "gdelt:71742513cfc8d31a:0",
+        "gdelt:7016b45717e7ee7a:0",
+        "gdelt:85a9785f4b583e4d:0"
+      ]
+    },
+    "dove": {
+      "score": 0.6,
+      "argument": "While the Hawk's analysis highlights valid concerns about Iran's threats to close the Bab el Mandeb strait (gdelt:13390267c8270ca4:0, gdelt:2255111d9823bc98:0, gdelt:71742513cfc8d31a:0), it is important to note that these threats have been ongoing for several days without any imminent disruption. The mention of another potential war for oil (gdelt:85a9785f4b583e4d:0) could indeed complicate the situation, but it does not necessarily indicate an immediate risk. However, the involvement of Iran's government as mentioned in gdelt:02b795f53a5a9e4b:0 warrants further attention.",
+      "cited_evidence_ids": [
+        "gdelt:13390267c8270ca4:0",
+        "gdelt:2255111d9823bc98:0",
+        "gdelt:71742513cfc8d31a:0",
+        "gdelt:02b795f53a5a9e4b:0",
+        "gdelt:85a9785f4b583e4d:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing Iran's ongoing threats to close the Bab el Mandeb strait (gdelt:13390267c8270ca4:0, gdelt:2255111d9823bc98:0, gdelt:71742513cfc8d31a:0) and the mention of another potential war for oil (gdelt:85a9785f4b583e4d:0) are more strongly supported by the evidence than Dove's arguments. However, Dove's argument about the ongoing nature of these threats without an imminent disruption is also valid.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2355027653369841,
+      "vessel": 0.6769427295182657,
+      "fundamentals": 1.0,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:27:36.277259+00:00"
+  },
+  "bab_el_mandeb::2026-04-27 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-04-27 18:00:00+00:00",
+    "tier1_composite_score": 0.581374686079688,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the Dove's argument about the potential diplomatic efforts towards peace is valid (cited_evidence_ids: ['gdelt:691796d03a4f77b3:0', 'gdelt:cfbcad5feaa1111c:0']), the recent increase in mentions of Iran in news sources related to the Bab el Mandeb strait (gdelt:161b9dbdef2f4f61:0, gdelt:fba1453f299b160c:0) still suggests a potential escalation of tensions that could disrupt the region. The news sub-score remains high (0.207), indicating ongoing geopolitical concerns.",
+      "cited_evidence_ids": [
+        "gdelt:02b795f53a5a9e4b:0",
+        "gdelt:161b9dbdef2f4f61:0",
+        "gdelt:fba1453f299b160c:0",
+        "gdelt:691796d03a4f77b3:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the mention of Iran in news sources related to the Bab el Mandeb strait (gdelt:161b9dbdef2f4f61:0, gdelt:fba1453f299b160c:0) does suggest potential escalation of tensions, it is important to note that these reports are dated before April 21st (2026-04-21), and the current situation may not accurately reflect the same level of tension. Furthermore, the recent EU-Yemen discussions and a message between Djibouti's president and Saudi Arabia's minister of foreign affairs indicate a potential diplomatic effort towards peace, which could reduce disruption risk.",
+      "cited_evidence_ids": [
+        "gdelt:161b9dbdef2f4f61:0",
+        "gdelt:fba1453f299b160c:0",
+        "gdelt:691796d03a4f77b3:0",
+        "gdelt:cfbcad5feaa1111c:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Dove's argument about the potential diplomatic efforts towards peace is more strongly supported by the evidence (cited_evidence_ids: ['gdelt:691796d03a4f77b3:0', 'gdelt:cfbcad5feaa1111c:0']). While the Hawk's argument about increased mentions of Iran in news sources related to the Bab el Mandeb strait (gdelt:161b9dbdef2f4f61:0, gdelt:fba1453f299b160c:0) does suggest potential escalation of tensions, it is important to note that these reports are dated before April 21st (2026-04-21), and the current situation may not accurately reflect the same level of tension.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2071489981687793,
+      "vessel": 0.1734988088438825,
+      "fundamentals": 1.0,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:31:21.521634+00:00"
+  },
+  "bab_el_mandeb::2026-05-05 00:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-05-05 00:00:00+00:00",
+    "tier1_composite_score": 0.5015862229308095,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While it is true that the news reports on May 3rd and 5th do not indicate further disruptions after the initial hijacking incident (gdelt:3e93025c0f85eded:0), the continued focus on tanker incidents off Yemen's coast in subsequent reports (gdelt:24e1ccf11ac8027e:0, gdelt:30cd4a4dd9415d68:0, gdelt:a92d22d3580f43bb:0) suggests a persistent risk. Furthermore, the denunciation by Yemen (gdelt:3ea64c9d07d1ca2e:0) and urgent reports from the coast guard (gdelt:c975c55297d82369:0) indicate ongoing concern about these incidents. The composite score, while relatively low, still indicates a moderate risk level. Therefore, the disruption risk for the Bab el Mandeb corridor remains elevated.",
+      "cited_evidence_ids": [
+        "gdelt:3e93025c0f85eded:0",
+        "gdelt:24e1ccf11ac8027e:0",
+        "gdelt:30cd4a4dd9415d68:0",
+        "gdelt:a92d22d3580f43bb:0",
+        "gdelt:3ea64c9d07d1ca2e:0",
+        "gdelt:c975c55297d82369:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the increased frequency of news reports about tanker incidents off the coast of Yemen (gdelt:24e1ccf11ac8027e:0, gdelt:30cd4a4dd9415d68:0) and hijackings towards Somalia (gdelt:3e93025c0f85eded:0, gdelt:bd82cac2d1733a5f:0) do suggest a higher disruption risk, it's important to note that the composite score remains relatively low at 0.502 (evidence_id: corridor:bab_el_mandeb). Furthermore, the subsequent reports on May 3rd and May 5th do not indicate any further disruptions (gdelt:a92d22d3580f43bb:0), which may suggest a temporary increase in activity rather than a persistent risk.",
+      "cited_evidence_ids": [
+        "gdelt:24e1ccf11ac8027e:0",
+        "gdelt:30cd4a4dd9415d68:0",
+        "gdelt:3e93025c0f85eded:0",
+        "gdelt:bd82cac2d1733a5f:0",
+        "gdelt:a92d22d3580f43bb:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.29999999999999993,
+      "rationale": "The Hawk's arguments citing multiple news reports about tanker incidents off the coast of Yemen (gdelt:24e1ccf11ac8027e:0, gdelt:30cd4a4dd9415d68:0, gdelt:3e93025c0f85eded:0, gdelt:bd82cac2d1733a5f:0) and denunciations by Yemen (gdelt:3ea64c9d07d1ca2e:0) and the coast guard (gdelt:c975c55297d82369:0) are more supported by the evidence than the Dove's arguments.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.3212766739708166,
+      "vessel": 0.069687216822187,
+      "fundamentals": 1.0,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:36:28.293844+00:00"
+  },
+  "bab_el_mandeb::2026-05-12 06:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-05-12 06:00:00+00:00",
+    "tier1_composite_score": 0.5026192742561552,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.6,
+      "argument": "While it is true that the hijacking incident occurred over a week ago (gdelt:c975c55297d82369:0), the lack of recent reports does not necessarily indicate a decrease in maritime insecurity in the Bab el Mandeb corridor. The continued reporting of tanker hijackings and redirected vessels towards Somalia (gdelt:3e93025c0f85eded:0, gdelt:bd82cac2d1733a5f:0) suggests a persistent pattern of increased maritime insecurity. Furthermore, the impact on Egypt's revenue due to attacks in the strait (gdelt:cb0a0922efcf3cc5:0) is still relevant as it underscores the broader regional instability that may continue to affect the energy supply chain.",
+      "cited_evidence_ids": [
+        "gdelt:3e93025c0f85eded:0",
+        "gdelt:bd82cac2d1733a5f:0",
+        "gdelt:cb0a0922efcf3cc5:0"
+      ]
+    },
+    "dove": {
+      "score": 0.6,
+      "argument": "While the pattern of multiple oil tanker hijackings off Yemen's coast and potential redirection towards Somalia (gdelt:3e93025c0f85eded:0, gdelt:bd82cac2d1733a5f:0) does suggest increased maritime insecurity in the Bab el Mandeb corridor, it is important to note that these incidents occurred over a week ago (gdelt:c975c55297d82369:0). However, the potential for continued disruption cannot be ruled out entirely. Additionally, Egypt's loss of 10 billion dollars in Suez Canal revenue due to attacks in the strait (gdelt:cb0a0922efcf3cc5:0) does indicate a broader regional instability that may impact the energy supply chain.",
+      "cited_evidence_ids": [
+        "gdelt:3e93025c0f85eded:0",
+        "gdelt:bd82cac2d1733a5f:0",
+        "gdelt:cb0a0922efcf3cc5:0",
+        "gdelt:c975c55297d82369:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "Both analysts present valid arguments citing multiple news reports (gdelt:3e93025c0f85eded:0, gdelt:bd82cac2d1733a5f:0) about tanker hijackings off the coast of Yemen and redirected towards Somalia. However, the Hawk's argument is more convincing as they acknowledge the time elapsed since the incidents (gdelt:c975c55297d82369:0), but argue that the continued reporting of similar events suggests a persistent pattern of increased maritime insecurity. The Dove's argument about the potential for continued disruption is also valid, but less well-supported.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.270053231348128,
+      "vessel": 0.4131370906197255,
+      "fundamentals": 1.0,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:40:21.265284+00:00"
+  },
+  "bab_el_mandeb::2026-05-19 12:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-05-19 12:00:00+00:00",
+    "tier1_composite_score": 0.5319489137272707,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.6,
+      "argument": "While Dove correctly points out that the French carrier Charles de Gaulle safely transited the Bab el Mandeb (gdelt:154000dfbbea983b:0), this does not necessarily indicate a lack of potential escalation. The revenue loss for Egypt due to attacks in the strait was indeed 10 billion dollars (gdelt:cb0a0922efcf3cc5:0), but this is still a significant disruption that could impact the corridor's stability. Furthermore, there are other pieces of evidence suggesting potential escalation such as Somali pirates demanding a ransom for the release of a small product tanker (gdelt:4a4d16c03ee07a72:0), and reports of Iranian military officers deployed near Africa (gdelt:1b91667caac8c958:0). The continued Yemen conflict also remains a source of instability (gdelt:733fc843abfe8078:0, gdelt:1ae7f99d32448a3e:0).",
+      "cited_evidence_ids": [
+        "gdelt:154000dfbbea983b:0",
+        "gdelt:cb0a0922efcf3cc5:0",
+        "gdelt:4a4d16c03ee07a72:0",
+        "gdelt:1b91667caac8c958:0",
+        "gdelt:733fc843abfe8078:0",
+        "gdelt:1ae7f99d32448a3e:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the French carrier Charles de Gaulle's safe transit (gdelt:154000dfbbea983b:0) indicates some level of stability in the Bab el Mandeb corridor, the Hawk's points about Egypt's revenue loss due to attacks (gdelt:cb0a0922efcf3cc5:0), Somali piracy (gdelt:4a4d16c03ee07a72:0), and potential Iranian military presence near Africa (gdelt:1b91667caac8c958:0) are valid concerns that warrant attention. The ongoing Yemen conflict (gdelt:733fc843abfe8078:0, gdelt:1ae7f99d32448a3e:0) and the mention of Israel and Iran in recent news (gdelt:748b509ebe1f0781:0, gdelt:0b0abfd5fec4b7d3:0) also suggest potential escalation that should be monitored closely.",
+      "cited_evidence_ids": [
+        "gdelt:cb0a0922efcf3cc5:0",
+        "gdelt:4a4d16c03ee07a72:0",
+        "gdelt:1b91667caac8c958:0",
+        "gdelt:748b509ebe1f0781:0",
+        "gdelt:0b0abfd5fec4b7d3:0",
+        "gdelt:1ae7f99d32448a3e:0",
+        "gdelt:733fc843abfe8078:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.5,
+        0.7
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Hawk's arguments citing evidence of potential escalation such as Somali piracy (gdelt:4a4d16c03ee07a72:0) and the presence of Iranian military officers near Africa (gdelt:1b91667caac8c958:0) are more convincingly supported by the evidence than Dove's argument about the safe transit of the French carrier Charles de Gaulle (gdelt:154000dfbbea983b:0). The revenue loss for Egypt due to attacks in the strait (gdelt:cb0a0922efcf3cc5:0) also suggests a level of disruption that could impact the corridor's stability.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2655850761660543,
+      "vessel": 0.278260709482183,
+      "fundamentals": 1.0,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:45:20.577747+00:00"
+  },
+  "bab_el_mandeb::2026-05-26 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-05-26 18:00:00+00:00",
+    "tier1_composite_score": 0.5024151716727583,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the French carrier Charles de Gaulle's safe transit (gdelt:154000dfbbea983b:0) is a positive sign, it does not completely negate the potential risks. The ongoing demand for ransom from Somali pirates for a small product tanker (gdelt:4a4d16c03ee07a72:0) and the military activity in Yemen (gdelt:c8bde35c368e7805:0, gdelt:fbcb0a0c439511ff:0) still pose threats to the corridor's stability. The focus on regional energy logistics development (gdelt:f6324b78cd38c580:0) is a promising sign, but it does not necessarily mitigate these immediate risks.",
+      "cited_evidence_ids": [
+        "gdelt:154000dfbbea983b:0",
+        "gdelt:4a4d16c03ee07a72:0",
+        "gdelt:c8bde35c368e7805:0",
+        "gdelt:fbcb0a0c439511ff:0",
+        "gdelt:f6324b78cd38c580:0"
+      ]
+    },
+    "dove": {
+      "score": 0.7,
+      "argument": "While the news sub-score is relatively low (0.199), it's important to note that the French carrier Charles de Gaulle safely transited the Bab el Mandeb (gdelt:154000dfbbea983b:0), indicating a current open navigation. However, there are potential risks. The report of Somali pirates demanding a ransom for a small product tanker (gdelt:4a4d16c03ee07a72:0) is concerning and warrants attention. Additionally, the ongoing military activity in Yemen (gdelt:c8bde35c368e7805:0, gdelt:fbcb0a0c439511ff:0) could indeed lead to disruptions. Lastly, the ongoing conflict and food crisis in Yemen (gdelt:78c88bbd50894731:0) may impact the corridor's stability. These events, while not fully reflected in the news sub-score, should be considered when assessing the risk.",
+      "cited_evidence_ids": [
+        "gdelt:154000dfbbea983b:0",
+        "gdelt:4a4d16c03ee07a72:0",
+        "gdelt:c8bde35c368e7805:0",
+        "gdelt:fbcb0a0c439511ff:0",
+        "gdelt:78c88bbd50894731:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.6,
+        0.7
+      ],
+      "disagreement_index": 0.19999999999999996,
+      "rationale": "The arguments citing the potential risks of Somali pirates demanding a ransom for a small product tanker (gdelt:4a4d16c03ee07a72:0) and ongoing military activity in Yemen (gdelt:c8bde35c368e7805:0, gdelt:fbcb0a0c439511ff:0) were more convincingly supported by the evidence.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1985472418774293,
+      "vessel": 0.1897475042859257,
+      "fundamentals": 1.0,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:49:27.191988+00:00"
+  },
+  "bab_el_mandeb::2026-06-03 00:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-06-03 00:00:00+00:00",
+    "tier1_composite_score": 0.3921481992982627,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While Dove's argument acknowledges potential mitigating factors such as regional energy logistics advancements (gdelt:f6324b78cd38c580:0, gdelt:971db622c363b632:0), it overlooks the direct threat posed by Iran's statement to close the Bab el Mandeb strait (gdelt:61f8e6b7477a9613:0). Furthermore, the absence of recent evidence of actual disruptions or threats does not necessarily diminish the potential for future disruptions. Therefore, while there may be some mitigating factors, the risk of geopolitical tension in the Bab el Mandeb corridor remains elevated.",
+      "cited_evidence_ids": [
+        "gdelt:61f8e6b7477a9613:0",
+        "gdelt:f6324b78cd38c580:0",
+        "gdelt:971db622c363b632:0"
+      ]
+    },
+    "dove": {
+      "score": 0.65,
+      "argument": "While Hawk's points about increased geopolitical tension (gdelt:61f8e6b7477a9613:0, gdelt:94ffe47eff76d923:0) and potential conflicts involving Yemen and Saudi Arabia (gdelt:e84d863de8bf6a43:0, gdelt:2adae7c9d88896ee:0) are valid concerns, our initial assessment also considered ongoing discussions about oil and gas corridor talks between Djibouti and Ethiopia (gdelt:f6324b78cd38c580:0, gdelt:971db622c363b632:0), which could potentially lead to increased activity in the corridor. This mitigating factor was not addressed in Hawk's rebuttal.",
+      "cited_evidence_ids": [
+        "gdelt:f6324b78cd38c580:0",
+        "gdelt:971db622c363b632:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.6,
+        0.7
+      ],
+      "disagreement_index": 0.15000000000000002,
+      "rationale": "The Dove's argument is favored as it cites evidence of ongoing discussions about oil and gas corridor talks between Djibouti and Ethiopia (gdelt:f6324b78cd38c580:0, gdelt:971db622c363b632:0) which could potentially lead to increased activity in the corridor, a mitigating factor not addressed in Hawk's rebuttal.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.275930261914394,
+      "vessel": 0.1253359517469255,
+      "fundamentals": 0.6412457086807255,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:53:58.726113+00:00"
+  },
+  "bab_el_mandeb::2026-06-03 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-06-03 18:00:00+00:00",
+    "tier1_composite_score": 0.3187359031087832,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.3,
+      "argument": "While Dove's argument highlights the potential mitigating factor of ongoing oil and gas corridor talks between Ethiopia and Djibouti (gdelt:f6324b78cd38c580:0, gdelt:971db622c363b632:0), it is important to note that the threats from Iran to close the Bab el Mandeb strait are still present and significant (gdelt:45dcdc40f54ada11:0, gdelt:61f8e6b7477a9613:0). The potential disruption risk remains high unless these threats are addressed.",
+      "cited_evidence_ids": [
+        "gdelt:45dcdc40f54ada11:0",
+        "gdelt:61f8e6b7477a9613:0",
+        "gdelt:f6324b78cd38c580:0",
+        "gdelt:971db622c363b632:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the potential threats from Iran to close the Bab el Mandeb strait are concerning (gdelt:45dcdc40f54ada11:0, gdelt:61f8e6b7477a9613:0), it's important to consider the ongoing advancements in oil and gas corridor talks between Ethiopia and Djibouti (gdelt:f6324b78cd38c580:0, gdelt:971db622c363b632:0). These developments could potentially mitigate the potential disruption risk.",
+      "cited_evidence_ids": [
+        "gdelt:45dcdc40f54ada11:0",
+        "gdelt:61f8e6b7477a9613:0",
+        "gdelt:94ffe47eff76d923:0",
+        "gdelt:f6324b78cd38c580:0",
+        "gdelt:971db622c363b632:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.55,
+      "confidence_band": [
+        0.5,
+        0.6
+      ],
+      "disagreement_index": 0.10000000000000003,
+      "rationale": "The Hawk's arguments citing potential threats from Iran to close the Bab el Mandeb strait (gdelt:45dcdc40f54ada11:0, gdelt:61f8e6b7477a9613:0) and CNN's report of Iran threatening another vital strait that could disrupt oil markets (gdelt:94ffe47eff76d923:0) are more strongly supported by the evidence.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2863922320679447,
+      "vessel": 0.1253359517469255,
+      "fundamentals": 0.6412457086807255,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T06:57:27.373394+00:00"
+  },
+  "bab_el_mandeb::2026-06-11 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-06-11 18:00:00+00:00",
+    "tier1_composite_score": 0.356801005951227,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While the Dove's argument about the lower Tier 1 quantitative sub-scores is valid, it's important to note that the news sub-score (0.296) is still relatively high compared to other corridors, indicating a significant amount of news coverage about the potential disruption in Bab el Mandeb. Furthermore, the mention of a 'red sea nightmare scenario' (gdelt:d29ee12e2c9ec65f:0) and the ongoing tension in Yemen (gdelt:a28913a038ac3bc7:0) suggest that the situation could escalate rapidly, potentially outweighing the current low vessel sub-score. Therefore, a score of 0.7 is more appropriate given the potential for rapid escalation and disruption.",
+      "cited_evidence_ids": [
+        "gdelt:45dcdc40f54ada11:0",
+        "gdelt:33e9e8a95ca3f5c4:0",
+        "gdelt:61f8e6b7477a9613:0",
+        "gdelt:d29ee12e2c9ec65f:0",
+        "gdelt:a28913a038ac3bc7:0"
+      ]
+    },
+    "dove": {
+      "score": 0.6,
+      "argument": "While the news sub-score (0.296) is relatively low, it's important to note that the high number of recent reports about Iran threatening to disrupt the Bab el Mandeb strait (cited_evidence_ids: ['gdelt:45dcdc40f54ada11:0', 'gdelt:33e9e8a95ca3f5c4:0', 'gdelt:61f8e6b7477a9613:0', 'gdelt:d29ee12e2c9ec65f:0', 'gdelt:94ffe47eff76d923:0']) does indicate a growing concern. The potential alliance between Houthi and Somali pirates (gdelt:d29ee12e2c9ec65f:0) could indeed pose a significant disruption risk. However, the vessel sub-score (0.203) still suggests less impact on shipping activities in the corridor, which somewhat mitigates the risk. The ongoing tension in Yemen (gdelt:a28913a038ac3bc7:0) could potentially escalate the situation, but it's not yet reflected in the high fundamentals sub-score (0.641), indicating a relatively stable geopolitical situation in the region.",
+      "cited_evidence_ids": [
+        "gdelt:45dcdc40f54ada11:0",
+        "gdelt:33e9e8a95ca3f5c4:0",
+        "gdelt:61f8e6b7477a9613:0",
+        "gdelt:d29ee12e2c9ec65f:0",
+        "gdelt:94ffe47eff76d923:0",
+        "gdelt:a28913a038ac3bc7:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.7,
+      "confidence_band": [
+        0.65,
+        0.75
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Hawk's arguments about the high number of recent reports (since June 1st) and the potential for rapid escalation (cited_evidence_ids: ['gdelt:45dcdc40f54ada11:0', 'gdelt:33e9e8a95ca3f5c4:0', 'gdelt:61f8e6b7477a9613:0', 'gdelt:d29ee12e2c9ec65f:0', 'gdelt:a28913a038ac3bc7:0']) are more convincing, as they take into account the potential for a 'red sea nightmare scenario' (gdelt:d29ee12e2c9ec65f:0) and the ongoing tension in Yemen (gdelt:a28913a038ac3bc7:0), which could escalate rapidly.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2963941645482366,
+      "vessel": 0.2030390333468884,
+      "fundamentals": 0.6412457086807255,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:03:02.903802+00:00"
+  },
+  "bab_el_mandeb::2026-06-20 00:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-06-20 00:00:00+00:00",
+    "tier1_composite_score": 0.3598556776031357,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the majority of the news articles do not specifically mention disruptions or escalations in the Bab el Mandeb corridor (cited_evidence_ids: ['gdelt:706cd5e23484e8c2:0', 'gdelt:a9f217319206876a:0', 'gdelt:200869e69f05cacd:0', 'gdelt:0c93fc8685e6e6585:0', 'gdelt:4ae9a96566979034:0']), the articles from June 8th and 12th do suggest potential military action or escalation (cited_evidence_ids: ['gdelt:33e9e8a95ca3f5c4:0', 'gdelt:84390a187cd697f9:0']). These recent reports, combined with the corridor's high strategic importance, warrant a higher disruption risk score.",
+      "cited_evidence_ids": [
+        "gdelt:33e9e8a95ca3f5c4:0",
+        "gdelt:84390a187cd697f9:0",
+        "gdelt:706cd5e23484e8c2:0",
+        "gdelt:7cd9fabf7a78bd62:0",
+        "gdelt:a9f217319206876a:0",
+        "gdelt:200869e69f05cacd:0",
+        "gdelt:0c93fc8685e66585:0",
+        "gdelt:4ae9a96566979034:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the recent news reports do suggest potential escalation of tensions in the Bab el Mandeb corridor (cited_evidence_ids: ['gdelt:33e9e8a95ca3f5c4:0', 'gdelt:84390a187cd697f9:0']), it's important to note that the majority of the news articles (cited_evidence_ids: ['gdelt:706cd5e23484e8c2:0', 'gdelt:a9f217319206876a:0', 'gdelt:200869e69f05cacd:0', 'gdelt:0c93fc8685e66585:0', 'gdelt:4ae9a96566979034:0']) are about general news in Yemen and do not specifically mention disruptions or escalations in the Bab el Mandeb corridor. The two recent articles that do mention potential disruptions or escalations are concerning, but their impact on the current disruption risk as of June 20, 2026 may be mitigated by the lack of more recent evidence supporting such a scenario.",
+      "cited_evidence_ids": [
+        "gdelt:33e9e8a95ca3f5c4:0",
+        "gdelt:84390a187cd697f9:0",
+        "gdelt:706cd5e23484e8c2:0",
+        "gdelt:a9f217319206876a:0",
+        "gdelt:200869e69f05cacd:0",
+        "gdelt:0c93fc8685e66585:0",
+        "gdelt:4ae9a96566979034:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments (gdelt:33e9e8a95ca3f5c4:0, gdelt:84390a187cd697f9:0) are more supported by the evidence as they directly mention potential military action or escalation in the Bab el Mandeb corridor, which is relevant to the disruption risk.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.19589746161493,
+      "vessel": 0.0989647569852009,
+      "fundamentals": 0.6412457086807255,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:08:56.721590+00:00"
+  },
+  "bab_el_mandeb::2026-06-27 06:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-06-27 06:00:00+00:00",
+    "tier1_composite_score": 0.3702514230932237,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.6,
+      "argument": "While it's true that the increased military activity in the region (gdelt:c299684d6b5fb7c5:0 and gdelt:7d7e32918800581d:0) could potentially be a joint effort to maintain security, the repeated mention of Yemen (gdelt:f46c80b8db1935ef:0, gdelt:51bba07939fff4ce:0, and gdelt:44016d4062bb497a:0) suggests ongoing instability that could disrupt the Bab el Mandeb corridor. The disavowal of NATO chief over Iran strikes by Italy (gdelt:f18585c559e213a1:0) and the recent events in Iran (gdelt:d9319e48e1255c79:0 and gdelt:0e013662b823deab:0) could also contribute to increased tension and potential disruptions. The mention of Japan and the World Food Program in relation to Yemen could be related to aid efforts that indirectly impact energy supply chains.",
+      "cited_evidence_ids": [
+        "gdelt:c299684d6b5fb7c5:0",
+        "gdelt:7d7e32918800581d:0",
+        "gdelt:f18585c559e213a1:0",
+        "gdelt:d9319e48e1255c79:0",
+        "gdelt:0e013662b823deab:0",
+        "gdelt:f46c80b8db1935ef:0",
+        "gdelt:51bba07939fff4ce:0",
+        "gdelt:44016d4062bb497a:0"
+      ]
+    },
+    "dove": {
+      "score": 0.3,
+      "argument": "While the increased military activity in the region (gdelt:c299684d6b5fb7c5:0 and gdelt:7d7e32918800581d:0) could potentially escalate conflicts, it's important to note that these reports also suggest a joint effort to maintain security and stability in the region (as stated in my opening position). The mention of Yemen in multiple news articles (gdelt:f46c80b8db1935ef:0, gdelt:51bba07939fff4ce:0, and gdelt:44016d4062bb497a:0) could be related to ongoing humanitarian efforts rather than disruptions to energy supply chains, as suggested in my opening position. The disavowal of NATO chief over Iran strikes by Italy (gdelt:f18585c559e213a1:0) and the recent events in Iran (gdelt:d9319e48e1255c79:0 and gdelt:0e013662b823deab:0) could indeed contribute to increased tension, but it's crucial to consider that these are separate issues not directly related to the Bab el Mandeb corridor disruption risk.",
+      "cited_evidence_ids": [
+        "gdelt:c299684d6b5fb7c5:0",
+        "gdelt:7d7e32918800581d:0",
+        "gdelt:f46c80b8db1935ef:0",
+        "gdelt:51bba07939fff4ce:0",
+        "gdelt:44016d4062bb497a:0",
+        "gdelt:f18585c559e213a1:0",
+        "gdelt:d9319e48e1255c79:0",
+        "gdelt:0e013662b823deab:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.55,
+      "confidence_band": [
+        0.5,
+        0.6
+      ],
+      "disagreement_index": 0.3,
+      "rationale": "The Hawk's arguments citing the increased military activity in the region (gdelt:c299684d6b5fb7c5:0 and gdelt:7d7e32918800581d:0) and the mention of Yemen (gdelt:f46c80b8db1935ef:0, gdelt:51bba07939fff4ce:0, and gdelt:44016d4062bb497a:0) are well-supported by the evidence. The Dove's arguments suggesting these reports indicate a joint effort to maintain security and stability or ongoing humanitarian efforts are less strongly supported.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2222355138700061,
+      "vessel": 0.1032233352811251,
+      "fundamentals": 0.6412457086807255,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:16:03.345041+00:00"
+  },
+  "bab_el_mandeb::2026-07-04 12:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-07-04 12:00:00+00:00",
+    "tier1_composite_score": 0.4035076346935289,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While it is true that there are reports of successful thwarting of pirate attacks (cited_evidence_ids: ['gdelt:010bd92e7d9acee5:0', 'gdelt:9f3dc4ba32d0778f:0']) and efforts to free hijacked tankers (cited_evidence_ids: ['gdelt:247279217668dd5f:0']), these incidents still indicate an ongoing risk of piracy in the Gulf of Aden. The news sub-score remains elevated due to multiple reports of pirate attempts (cited_evidence_ids: ['gdelt:247279217668dd5f:0', 'gdelt:9f3dc4ba32d0778f:0', 'gdelt:1c4166bfe9be5995:0']) and the hijacked tanker (cited_evidence_ids: ['gdelt:247279217668dd5f:0']). The Yemeni economy may be showing signs of activity (cited_evidence_ids: ['gdelt:aaa7ab13bab896d2:0', 'gdelt:296319f916bc8f0f:0']) but its instability could still provide a breeding ground for piracy.",
+      "cited_evidence_ids": [
+        "gdelt:247279217668dd5f:0",
+        "gdelt:296319f916bc8f0f:0",
+        "gdelt:aaa7ab13bab896d2:0",
+        "gdelt:010bd92e7d9acee5:0",
+        "gdelt:1c4166bfe9be5995:0",
+        "gdelt:9f3dc4ba32d0778f:0"
+      ]
+    },
+    "dove": {
+      "score": 0.6,
+      "argument": "While Hawk's points about increased pirate activity (gdelt:9f3dc4ba32d0778f:0, gdelt:010bd92e7d9acee5:0, gdelt:1c4166bfe9be5995:0, gdelt:9f3dc4ba32d0778f:0) and the hijacked tanker (gdelt:247279217668dd5f:0) are well-supported by the evidence, it's important to note that there are also reports of successful thwarting of these attacks (gdelt:010bd92e7d9acee5:0, gdelt:9f3dc4ba32d0778f:0). Furthermore, the Yemeni economy is not as unstable as suggested by Hawk, with reports of economic activity in Yemen (gdelt:aaa7ab13bab896d2:0, gdelt:296319f916bc8f0f:0). The military equipment being sent to Somalia from Israel (gdelt:b3ea2153a0986d08:0) may potentially lead to increased tensions in the region, but it's not directly related to piracy in the Gulf of Aden.",
+      "cited_evidence_ids": [
+        "gdelt:247279217668dd5f:0",
+        "gdelt:296319f916bc8f0f:0",
+        "gdelt:aaa7ab13bab896d2:0",
+        "gdelt:010bd92e7d9acee5:0",
+        "gdelt:1c4166bfe9be5995:0",
+        "gdelt:9f3dc4ba32d0778f:0",
+        "gdelt:b3ea2153a0986d08:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.6,
+        0.7
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Hawk's arguments about increased pirate activity (gdelt:9f3dc4ba32d0778f:0, gdelt:010bd92e7d9acee5:0, gdelt:1c4166bfe9be5995:0, gdelt:9f3dc4ba32d0778f:0) and the hijacked tanker (gdelt:247279217668dd5f:0) are well-supported by the evidence. However, the Dove's point about successful thwarting of these attacks (gdelt:010bd92e7d9acee5:0, gdelt:9f3dc4ba32d0778f:0) also holds weight.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2960619703310653,
+      "vessel": 0.0286189183390819,
+      "fundamentals": 0.9325455961388702,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:22:21.745561+00:00"
+  },
+  "bab_el_mandeb::2026-07-11 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-07-11 18:00:00+00:00",
+    "tier1_composite_score": 0.3670219351654921,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While some of the news events (gdelt:95bb275fe52966d0:0) do not directly impact the Bab el Mandeb corridor, others (gdelt:247279217668dd5f:0, gdelt:a813971c4fb0d7fc:0, gdelt:e925a07437731dce:0) could potentially have indirect effects through political instability and unrest. The low vessel sub-score (0.053) may not fully capture these potential disruptions.",
+      "cited_evidence_ids": [
+        "gdelt:247279217668dd5f:0",
+        "gdelt:a813971c4fb0d7fc:0",
+        "gdelt:e925a07437731dce:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While Hawk's points about increased piracy (gdelt:247279217668dd5f:0) and political unrest including prisoner settlements (gdelt:a813971c4fb0d7fc:0) in Yemen are valid, the news about water shortage-related activities using buses as makeshift tanks (gdelt:95bb275fe52966d0:0) is not directly related to maritime traffic disruptions in the Bab el-Mandeb corridor. Therefore, the potential for disruption remains, but it is slightly reduced.",
+      "cited_evidence_ids": [
+        "gdelt:247279217668dd5f:0",
+        "gdelt:a813971c4fb0d7fc:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.55,
+      "confidence_band": [
+        0.45,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing increased piracy (gdelt:247279217668dd5f:0) and political unrest including prisoner settlements (gdelt:a813971c4fb0d7fc:0) are more convincing in terms of potential disruptions to the Bab el Mandeb corridor, as these events can indirectly impact maritime traffic. The Dove's argument about water shortage-related activities using buses as makeshift tanks (gdelt:95bb275fe52966d0:0) not being directly related to disruptions in the energy supply chain is less supported.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2125466588538981,
+      "vessel": 0.0532424293420107,
+      "fundamentals": 0.9325455961388702,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:25:56.693154+00:00"
+  },
+  "bab_el_mandeb::2026-07-19 00:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2026-07-19 00:00:00+00:00",
+    "tier1_composite_score": 0.3647240593325015,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the repetition of news reports about a potential closure of Bab el Mandeb by the Houthis (gdelt:1db674bdbd4b9838:0, gdelt:fd019cad33212172:0, gdelt:fefb69289e554906:0, gdelt:250a44d9d5a8e27b:0, gdelt:06c4d5f1adc0be12:0, gdelt:bc4a8fc18eaad4ee:0, gdelt:c017305236511558:0) could indicate a high level of media attention and potential sensationalization, the strengthening of Red Sea missions by multiple European countries (gdelt:fefb69289e554906:0, gdelt:250a44d9d5a8e27b:0, gdelt:06c4d5f1adc0be12:0, gdelt:abbedf2891e67053:0) suggests a genuine concern about the potential disruption. The report from 'us power network' (gdelt:bc4a8fc18eaad4ee:0), while not credible, does not necessarily undermine this concern.",
+      "cited_evidence_ids": [
+        "gdelt:1db674bdbd4b9838:0",
+        "gdelt:fd019cad33212172:0",
+        "gdelt:fefb69289e554906:0",
+        "gdelt:250a44d9d5a8e27b:0",
+        "gdelt:06c4d5f1adc0be12:0",
+        "gdelt:bc4a8fc18eaad4ee:0",
+        "gdelt:c017305236511558:0",
+        "gdelt:abbedf2891e67053:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the news reports do suggest a potential closure of Bab el Mandeb by Iran or Houthis (gdelt:1db674bdbd4b9838:0, gdelt:bc4a8fc18eaad4ee:0, gdelt:c017305236511558:0), it's important to note that the report from 'us power network' (gdelt:bc4a8fc18eaad4ee:0) is not a credible source. However, the increased activity and potential threat, as indicated by multiple European countries strengthening their Red Sea missions (gdelt:fefb69289e554906:0, gdelt:250a44d9d5a8e27b:0, gdelt:06c4d5f1adc0be12:0, gdelt:abbedf2891e67053:0), does warrant a higher level of concern than initially assessed.",
+      "cited_evidence_ids": [
+        "gdelt:1db674bdbd4b9838:0",
+        "gdelt:bc4a8fc18eaad4ee:0",
+        "gdelt:c017305236511558:0",
+        "gdelt:fefb69289e554906:0",
+        "gdelt:250a44d9d5a8e27b:0",
+        "gdelt:06c4d5f1adc0be12:0",
+        "gdelt:abbedf2891e67053:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.6,
+        0.7
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The arguments citing multiple news reports about the potential closure of Bab el Mandeb by Iran or Houthis (gdelt:1db674bdbd4b9838:0, gdelt:fd019cad33212172:0, gdelt:fefb69289e554906:0, gdelt:250a44d9d5a8e27b:0, gdelt:06c4d5f1adc0be12:0, gdelt:bc4a8fc18eaad4ee:0, gdelt:c017305236511558:0) and the strengthening of Red Sea missions by multiple European countries (gdelt:fefb69289e554906:0, gdelt:250a44d9d5a8e27b:0, gdelt:06c4d5f1adc0be12:0, gdelt:abbedf2891e67053:0) are well-supported by the evidence.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2780187662921224,
+      "vessel": 0.0532424293420107,
+      "fundamentals": 0.9325455961388702,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:32:22.284709+00:00"
+  },
+  "bab_el_mandeb::2025-10-21 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-10-21 18:00:00+00:00",
+    "tier1_composite_score": 0.4317256413782575,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.65,
+      "argument": "While it is true that the direct impact of the EU's delay in implementing a global carbon tax (gdelt:11f8a5fe690d57f4:0) may not be immediate, it could potentially lead to increased shipping activities in the Bab el Mandeb corridor as companies might seek alternative routes. The military tanker incident mentioned (gdelt:cd2e91f7466c44ad:0, gdelt:73b023e2a5600790:0, gdelt:572fe7abd58c2b2b:0) is indeed a localized event, but it does indicate ongoing military tension in the region which could potentially escalate and impact the corridor. The rescue of 24 crew members (gdelt:dc25d393586647ec:0) from an LPG tanker suggests that authorities are responding to incidents promptly, but it does not necessarily mean that such incidents will not occur again or cause disruptions.",
+      "cited_evidence_ids": [
+        "gdelt:11f8a5fe690d57f4:0",
+        "gdelt:cd2e91f7466c44ad:0",
+        "gdelt:73b023e2a5600790:0",
+        "gdelt:572fe7abd58c2b2b:0",
+        "gdelt:dc25d393586647ec:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the recent incidents involving oil tankers and LPG tanker fires (gdelt:6681cc90c9b3c090:0, gdelt:a9ec3b19aaa356b1:0) do indicate a higher likelihood of accidents or attacks in the Gulf of Aden, it's important to note that these incidents are not directly related to the Bab el Mandeb corridor. However, the ongoing military tension in Yemen (gdelt:73b023e2a5600790:0, gdelt:572fe7abd58c2b2b:0) could potentially spill over and impact the Bab el Mandeb corridor. The EU's delay in implementing a global carbon tax (gdelt:11f8a5fe690d57f4:0) is still unlikely to have an immediate impact on shipping activities in this region, but it may contribute to long-term changes in shipping patterns.",
+      "cited_evidence_ids": [
+        "gdelt:6681cc90c9b3c090:0",
+        "gdelt:a9ec3b19aaa356b1:0",
+        "gdelt:73b023e2a5600790:0",
+        "gdelt:572fe7abd58c2b2b:0",
+        "gdelt:11f8a5fe690d57f4:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.25,
+      "rationale": "The Hawk's arguments citing the explosion aboard a Cameroonian oil tanker off Yemen (gdelt:6681cc90c9b3c090:0) and the fire on an LPG tanker in the Gulf of Aden (gdelt:a9ec3b19aaa356b1:0) are supported by evidence, suggesting a higher likelihood of accidents or attacks that could disrupt vessel traffic. Additionally, the Hawk's argument about ongoing military tension in Yemen as evidenced by reports about a minister and a militia (gdelt:73b023e2a5600790:0, gdelt:572fe7abd58c2b2b:0) is also well-supported.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2540463565390226,
+      "vessel": 0.6254046638261306,
+      "fundamentals": NaN,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:37:36.427947+00:00"
+  },
+  "bab_el_mandeb::2025-11-03 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-11-03 18:00:00+00:00",
+    "tier1_composite_score": 0.3825457752204929,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While the absence of recent news about militia or political instability in Yemen (gdelt:584e6d300d811f0a:0, gdelt:cc7fb68563ebff8f:0, gdelt:f2d11d28ee63255c:0) is a positive sign, the increased presence of these groups could still pose a potential threat to the corridor's stability. The medium credibility report (gdelt:e092a83ccda1e9da:0) about the Yemen President might suggest some level of stability, but it does not necessarily negate the possibility of future instability. The Saudi Arabian lease of Djibouti's Tadjourah port (gdelt:9659ff55c704605a:0) could indeed increase security, but it also introduces a new power dynamic in the region that could potentially impact the corridor's security.",
+      "cited_evidence_ids": [
+        "gdelt:584e6d300d811f0a:0",
+        "gdelt:cc7fb68563ebff8f:0",
+        "gdelt:f2d11d28ee63255c:0",
+        "gdelt:e092a83ccda1e9da:0",
+        "gdelt:9659ff55c704605a:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the increased presence of militias and police forces in Yemen (gdelt:584e6d300d811f0a:0, gdelt:cc7fb68563ebff8f:0, gdelt:f2d11d28ee63255c:0) and the governor of Yemen (gdelt:fbf70127ec691d8c:0) in the news may indicate potential instability, it's important to note that there is no recent news about militia or political instability that could directly disrupt the corridor as suggested by Hawk. Furthermore, the Saudi Arabian lease of Djibouti's Tadjourah port (gdelt:9659ff55c704605a:0) might indeed shift power dynamics in the region, but it also potentially increases security and reduces the likelihood of disruptions in the Bab el Mandeb corridor.",
+      "cited_evidence_ids": [
+        "gdelt:584e6d300d811f0a:0",
+        "gdelt:cc7fb68563ebff8f:0",
+        "gdelt:f2d11d28ee63255c:0",
+        "gdelt:fbf70127ec691d8c:0",
+        "gdelt:9659ff55c704605a:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.5,
+        0.7
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing the increased presence of militias and police forces in Yemen (gdelt:584e6d300d811f0a:0, gdelt:cc7fb68563ebff8f:0, gdelt:f2d11d28ee63255c:0) and the governor of Yemen (gdelt:fbf70127ec691d8c:0) in the news are more convincing as they directly indicate potential instability that could disrupt the energy supply chain.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.184823608676688,
+      "vessel": 0.6531096227302063,
+      "fundamentals": 0.3201118551769819,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:42:21.514136+00:00"
+  },
+  "bab_el_mandeb::2025-11-06 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-11-06 18:00:00+00:00",
+    "tier1_composite_score": 0.3646095038223004,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While it's true that the news sub-score may be influenced by a high volume of general Yemen-related stories (gdelt:c5be8f915b18aec5:0, gdelt:904c2316011f4984:0), it's important to note that these stories do not necessarily need to directly impact the Bab el Mandeb corridor. The mention of Yemen in relation to Turkey and Iran (gdelt:13ace1677d2b198b:0) could indeed indicate regional tensions, which might indirectly affect the corridor's stability. Furthermore, localized gunmen activity in Yemen (gdelt:0243f6e312e8f307:0) and the port of Djibouti (gdelt:cfca29a3be810dcc:0) are also worth considering as potential disruptions to the corridor, even though they may be localized.",
+      "cited_evidence_ids": [
+        "gdelt:c5be8f915b18aec5:0",
+        "gdelt:904c2316011f4984:0",
+        "gdelt:cfca29a3be810dcc:0",
+        "gdelt:c3e51c4cee5cf4b8:0",
+        "gdelt:74044275d121f359:0",
+        "gdelt:b48fc0aca4d416d8:0",
+        "gdelt:0243f6e312e8f307:0",
+        "gdelt:13ace1677d2b198b:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the increased frequency of news about Yemen does suggest a higher level of instability in the region, not all stories directly impact the Bab el Mandeb corridor. The Hawk's argument is partially supported by reports of militia activity (gdelt:c3e51c4cee5cf4b8:0) and gunmen incidents (gdelt:0243f6e312e8f307:0) in Yemen, which could potentially spill over into the corridor. However, the mention of Yemen in relation to Turkey and Iran (gdelt:c5be8f915b18aec5:0, gdelt:13ace1677d2b198b:0) does not necessarily indicate a direct threat to the corridor's stability.",
+      "cited_evidence_ids": [
+        "gdelt:c3e51c4cee5cf4b8:0",
+        "gdelt:0243f6e312e8f307:0",
+        "gdelt:c5be8f915b18aec5:0",
+        "gdelt:13ace1677d2b198b:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.55,
+      "confidence_band": [
+        0.45,
+        0.65
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Hawk's argument is supported by reports of militia activity (gdelt:c3e51c4cee5cf4b8:0) and gunmen incidents (gdelt:0243f6e312e8f307:0) in Yemen, which could potentially spill over into the Bab el Mandeb corridor. The Dove's argument is partially correct in that not all news about Yemen directly impacts the corridor, but the potential indirect threats through regional tensions (gdelt:c5be8f915b18aec5:0, gdelt:13ace1677d2b198b:0) are also worth considering.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2089389942734681,
+      "vessel": 0.566663963049267,
+      "fundamentals": 0.3201118551769819,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:47:25.711388+00:00"
+  },
+  "bab_el_mandeb::2025-11-20 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-11-20 18:00:00+00:00",
+    "tier1_composite_score": 0.3447860009486622,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While it is true that the news sub-score is relatively high (0.179), Dove's interpretation overlooks some of the specific details in the news articles. For instance, the mention of Yemen's citizens (gdelt:8cdf0bf25129f7cf:0) and militia activity (gdelt:d24c9b7225d954cd:0) could potentially lead to increased instability in the region, which could indirectly affect the Bab el Mandeb corridor. Furthermore, the mention of magistrates (gdelt:8a7b2ae81b9bba0b:0) might suggest legal disputes or conflicts that could contribute to regional unrest.",
+      "cited_evidence_ids": [
+        "gdelt:8cdf0bf25129f7cf:0",
+        "gdelt:d24c9b7225d954cd:0",
+        "gdelt:8a7b2ae81b9bba0b:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While Hawk's argument is plausible, the cited news articles do not explicitly mention a direct threat or instability specifically related to the Bab el Mandeb corridor. The mention of militia activity (gdelt:d24c9b7225d954cd:0) could potentially pose a risk, but without more specific information about the nature and location of this activity, it is difficult to accurately assess its impact on the corridor.",
+      "cited_evidence_ids": [
+        "gdelt:6a14ec73bd2f949f:0",
+        "gdelt:8b86d225a1520922:0",
+        "gdelt:21aa9e8168e57b52:0",
+        "gdelt:4e649d786d2f7656:0",
+        "gdelt:8cdf0bf25129f7cf:0",
+        "gdelt:858bde5e7195f9e6:0",
+        "gdelt:d24c9b7225d954cd:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.4,
+        0.6
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "Both analysts make valid points about the indirect implications of the news articles. However, the Hawk's rebuttal provides a more compelling argument by citing specific mentions of Yemen's citizens (gdelt:8cdf0bf25129f7cf:0) and militia activity (gdelt:d24c9b7225d954cd:0), which could potentially lead to increased instability in the region. The Dove's rebuttal, while acknowledging this possibility, does not offer new evidence to counter Hawk's argument.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1786195045109636,
+      "vessel": 0.5407549241302848,
+      "fundamentals": 0.3201118551769819,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:51:56.284246+00:00"
+  },
+  "bab_el_mandeb::2025-12-01 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-12-01 18:00:00+00:00",
+    "tier1_composite_score": 0.2080184627490302,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While it's true that some of the news reports (gdelt:1374c852e5d1ef41:0, gdelt:9d5af6c68186f434:0, gdelt:1af4dcaad6cb5f9f:0, gdelt:c48719569649050b:0, gdelt:8ece5b37c5b09e8a:0, gdelt:b40d473e3d6b4e03:0) do not directly indicate disruption to the Bab el Mandeb corridor, they do suggest instability in Yemen which could indirectly impact the corridor's stability. The tanker mentioned in gdelt:d68a551e8c1a6bd0:0 is part of the corridor and its presence could potentially disrupt the flow of goods. The Australian crude oil shipment (gdelt:d948ab54482c973c:0) might not be destined for the region, but it's worth noting that any disruption in the corridor could have a ripple effect on global energy supply chains.",
+      "cited_evidence_ids": [
+        "gdelt:d68a551e8c1a6bd0:0",
+        "gdelt:d948ab54482c973c:0",
+        "gdelt:1374c852e5d1ef41:0",
+        "gdelt:9d5af6c68186f434:0",
+        "gdelt:1af4dcaad6cb5f9f:0",
+        "gdelt:c48719569649050b:0",
+        "gdelt:8ece5b37c5b09e8a:0",
+        "gdelt:b40d473e3d6b4e03:0"
+      ]
+    },
+    "dove": {
+      "score": 0.25,
+      "argument": "While Hawk's points about the tanker in Djibouti (gdelt:d68a551e8c1a6bd0:0) and potential disruptions to energy supply chains are valid concerns, they do not directly indicate a significant risk to the Bab el Mandeb corridor. The mention of Australia's crude oil shipment (gdelt:d948ab54482c973c:0) is likely unrelated to the corridor as it involves a French captain and is bound for France. Furthermore, the multiple mentions of Yemen (gdelt:1374c852e5d1ef41:0, gdelt:9d5af6c68186f434:0, gdelt:1af4dcaad6cb5f9f:0, gdelt:c48719569649050b:0, gdelt:8ece5b37c5b09e8a:0, gdelt:b40d473e3d6b4e03:0) do not provide clear evidence of disruption to the corridor. Therefore, while there is potential for indirect impacts on the corridor due to instability in Yemen, the direct evidence of disruption remains limited.",
+      "cited_evidence_ids": [
+        "gdelt:d68a551e8c1a6bd0:0",
+        "gdelt:d948ab54482c973c:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.44999999999999996,
+      "rationale": "The Hawk's arguments citing the tanker in Djibouti (gdelt:d68a551e8c1a6bd0:0) and multiple mentions of Yemen (gdelt:1374c852e5d1ef41:0, gdelt:9d5af6c68186f434:0, gdelt:1af4dcaad6cb5f9f:0, gdelt:c48719569649050b:0, gdelt:8ece5b37c5b09e8a:0, gdelt:b40d473e3d6b4e03:0) are more convincingly supported by the evidence than the Dove's arguments.",
+      "human_review_flag": true,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2039861236179373,
+      "vessel": 0.0511138724184591,
+      "fundamentals": 0.4137531316606219,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T07:59:24.761271+00:00"
+  },
+  "bab_el_mandeb::2025-12-11 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-12-11 18:00:00+00:00",
+    "tier1_composite_score": 0.2281942964992014,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While Dove's analysis acknowledges the lack of a pattern in recent pirate attacks (gdelt:999391cf3249e973:0, gdelt:8954f1f2405bf95e:0), it is important to note that these incidents could still pose a threat to shipping traffic in the Bab el Mandeb corridor. The isolated incident of a ship carrying Russian oil (gdelt:d948ab54482c973c:0) demonstrates the potential for such disruptions. Furthermore, the US operation against Al Qaeda in Yemen (gdelt:992eaa805efa30c4:0) indicates ongoing conflict in the region, which could potentially escalate and impact the corridor. The reports of military conflicts (gdelt:99fd0b31f383a6cb:0, gdelt:7baac9e4d1864430:0) and political instability (gdelt:20f41aa48082f40d:0) might not be directly related to the corridor disruption risk at this moment, but they do suggest a volatile environment that could lead to increased risks in the future.",
+      "cited_evidence_ids": [
+        "gdelt:999391cf3249e973:0",
+        "gdelt:8954f1f2405bf95e:0",
+        "gdelt:d948ab54482c973c:0",
+        "gdelt:992eaa805efa30c4:0",
+        "gdelt:99fd0b31f383a6cb:0",
+        "gdelt:7baac9e4d1864430:0",
+        "gdelt:20f41aa48082f40d:0"
+      ]
+    },
+    "dove": {
+      "score": 0.65,
+      "argument": "While the Tier 1 quantitative scores suggest a moderate disruption risk, Hawk's points are well-supported by the evidence. The report of US attacks on Al Qaeda in Yemen (gdelt:992eaa805efa30c4:0) does indicate ongoing conflict in the region that could potentially spill over into the Bab el Mandeb corridor. Furthermore, the multiple reports of pirate attacks on ships in the strait (gdelt:999391cf3249e973:0, gdelt:8954f1f2405bf95e:0, gdelt:7baac9e4d1864430:0) do suggest a pattern of disruptions. The report about the International Monetary Fund's involvement in Yemen (gdelt:20f41aa48082f40d:0) does indicate economic instability that could further contribute to disruptions.",
+      "cited_evidence_ids": [
+        "gdelt:992eaa805efa30c4:0",
+        "gdelt:999391cf3249e973:0",
+        "gdelt:8954f1f2405bf95e:0",
+        "gdelt:20f41aa48082f40d:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.6,
+        0.7
+      ],
+      "disagreement_index": 0.04999999999999993,
+      "rationale": "The arguments favoring a higher disruption risk are well-supported by the evidence. Both analysts acknowledge the pirate attacks (gdelt:999391cf3249e973:0, gdelt:8954f1f2405bf95e:0, gdelt:7baac9e4d1864430:0) and the US operation against Al Qaeda in Yemen (gdelt:992eaa805efa30c4:0), which suggest ongoing conflict in the region that could potentially impact the corridor. The report about the International Monetary Fund's involvement in Yemen (gdelt:20f41aa48082f40d:0) also supports the argument for a higher disruption risk due to economic instability.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2575247834100143,
+      "vessel": 0.0473847619095659,
+      "fundamentals": 0.4137531316606219,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T08:07:24.036650+00:00"
+  },
+  "bab_el_mandeb::2025-12-16 18:00:00+00:00": {
+    "corridor_id": "bab_el_mandeb",
+    "as_of": "2025-12-16 18:00:00+00:00",
+    "tier1_composite_score": 0.5095962281577583,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.6,
+      "argument": "While it is true that pirate attacks in the Bab el Mandeb Strait (gdelt:999391cf3249e973:0, gdelt:8954f1f2405bf95e:0) have occurred before, the recent increase in frequency and severity of these attacks may indicate a worsening security situation. The Tier 1 quantitative sub-score for vessel (0.842) suggests that there is an increased risk of maritime disruptions due to these attacks.",
+      "cited_evidence_ids": [
+        "gdelt:999391cf3249e973:0",
+        "gdelt:8954f1f2405bf95e:0"
+      ]
+    },
+    "dove": {
+      "score": 0.55,
+      "argument": "While the recent pirate attacks on ships in the Bab el Mandeb Strait (gdelt:999391cf3249e973:0, gdelt:8954f1f2405bf95e:0) may indicate a slight increase in maritime insecurity, it's important to note that these incidents are not entirely new. However, the potential escalation and secession in Yemen (gdelt:41868c5671150417:0) and armed conflicts in Yemen and Syria (gdelt:fb4c8fd6ce7f9492:0) do suggest a broader regional instability that could potentially impact the strait's security.",
+      "cited_evidence_ids": [
+        "gdelt:999391cf3249e973:0",
+        "gdelt:8954f1f2405bf95e:0",
+        "gdelt:41868c5671150417:0",
+        "gdelt:fb4c8fd6ce7f9492:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.55,
+        0.7
+      ],
+      "disagreement_index": 0.04999999999999993,
+      "rationale": "The Hawk's arguments citing the recent increase in frequency and severity of pirate attacks on ships in the Bab el Mandeb Strait (gdelt:999391cf3249e973:0, gdelt:8954f1f2405bf95e:0) are supported by the Tier 1 quantitative sub-score for vessel (0.842), which indicates an increased risk of maritime disruptions due to these attacks.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.263725009281771,
+      "vessel": 0.8423968253518955,
+      "fundamentals": 0.4137531316606219,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T08:11:25.566920+00:00"
+  },
+  "hormuz::2025-08-12 18:00:00+00:00": {
+    "corridor_id": "hormuz",
+    "as_of": "2025-08-12 18:00:00+00:00",
+    "tier1_composite_score": 0.4792344278075242,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.65,
+      "argument": "While it's true that the news sub-score is lower than the vessel sub-score, the evidence suggests a potential risk of disruption in the Hormuz corridor. The recent news about Iran's arms shipment to Yemen (gdelt:ea7ae419ee9cbf17:0) and the ongoing conflict in West Asia (gdelt:46a47cc69ca2a19c:0) are direct indicators of this risk. Furthermore, the focus on oil prices and OPEC in some news articles (gdelt:6f1c876190a72a48:0, gdelt:0915868e7af83f2d:0) indicates potential volatility in the energy market that could impact the corridor.",
+      "cited_evidence_ids": [
+        "gdelt:ea7ae419ee9cbf17:0",
+        "gdelt:46a47cc69ca2a19c:0",
+        "gdelt:6f1c876190a72a48:0",
+        "gdelt:0915868e7af83f2d:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the Hawk's argument about the potential disruption in the Hormuz corridor due to Iran's arms shipment (gdelt:ea7ae419ee9cbf17:0) and ongoing conflict in West Asia (gdelt:46a47cc69ca2a19c:0) is valid, it's important to note that the majority of the news evidence provided does not directly support an imminent disruption. The focus on oil prices and OPEC (gdelt:6f1c876190a72a48:0, gdelt:0915868e7af83f2d:0) indicates potential volatility in the energy market that could impact the corridor, but this is not definitive proof of an immediate disruption. Therefore, the risk remains somewhat elevated, but not as high as suggested by the Hawk.",
+      "cited_evidence_ids": [
+        "gdelt:ea7ae419ee9cbf17:0",
+        "gdelt:46a47cc69ca2a19c:0",
+        "gdelt:6f1c876190a72a48:0",
+        "gdelt:0915868e7af83f2d:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.6,
+      "confidence_band": [
+        0.55,
+        0.65
+      ],
+      "disagreement_index": 0.15000000000000002,
+      "rationale": "The Hawk's arguments about the potential disruption in the Hormuz corridor due to Iran's arms shipment (gdelt:ea7ae419ee9cbf17:0) and ongoing conflict in West Asia (gdelt:46a47cc69ca2a19c:0) are directly supported by the evidence, while the Dove's arguments about the majority of the news not directly supporting an imminent disruption are countered by the focus on oil prices and OPEC (gdelt:6f1c876190a72a48:0, gdelt:0915868e7af83f2d:0) which indicates potential volatility in the energy market that could impact the corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2157643822098149,
+      "vessel": 0.7790954653296597,
+      "fundamentals": NaN,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T08:16:25.536694+00:00"
+  },
+  "hormuz::2025-08-22 18:00:00+00:00": {
+    "corridor_id": "hormuz",
+    "as_of": "2025-08-22 18:00:00+00:00",
+    "tier1_composite_score": 0.4594975173368121,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.7,
+      "argument": "While Dove's points about economic and educational cooperation are valid (gdelt:a11f93f5b6df5139:0, gdelt:d519a5e0dbe1fb8e:0), it is important to note that the expansion of logistics companies could potentially divert shipping traffic away from the Hormuz corridor (gdelt:a11f93f5b6df5139:0). Furthermore, the mention of Iran stirring fears of another war (gdelt:41c42719aa655e22:0) indicates geopolitical instability in the region which could disrupt the energy supply chain. Lastly, the demonstration about energy (gdelt:1d87704876552431:0) and the mention of Iran and Qatar (gdelt:306565e62056eb15:0) could indicate regional tensions that might impact the corridor.",
+      "cited_evidence_ids": [
+        "gdelt:a11f93f5b6df5139:0",
+        "gdelt:41c42719aa655e22:0",
+        "gdelt:1d87704876552431:0",
+        "gdelt:306565e62056eb15:0"
+      ]
+    },
+    "dove": {
+      "score": 0.5,
+      "argument": "While the expansion of logistics company Al Sharqi Shipping into Kenya and Uganda (gdelt:a11f93f5b6df5139:0) could potentially divert some shipping traffic, it is not expected to significantly impact the Hormuz corridor given its geographical location. Regarding Iran stirring fears of another war (gdelt:41c42719aa655e22:0), while geopolitical instability in the region is a concern, the specific focus on Iran and Qatar (gdelt:306565e62056eb15:0) suggests a regional conflict rather than a direct threat to the Hormuz corridor. The demonstration about energy (gdelt:1d87704876552431:0) does not provide enough context to determine its potential impact on the Hormuz corridor.",
+      "cited_evidence_ids": [
+        "gdelt:a11f93f5b6df5139:0",
+        "gdelt:41c42719aa655e22:0",
+        "gdelt:1d87704876552431:0",
+        "gdelt:306565e62056eb15:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.55,
+        0.7
+      ],
+      "disagreement_index": 0.19999999999999996,
+      "rationale": "The Hawk's arguments about the potential diversion of shipping traffic due to Al Sharqi Shipping's expansion (gdelt:a11f93f5b6df5139:0) and the geopolitical instability caused by Iran stirring fears of another war (gdelt:41c42719aa655e22:0) are more convincingly supported by the evidence, as compared to Dove's arguments about economic and educational cooperation (gdelt:a11f93f5b6df5139:0, gdelt:d519a5e0dbe1fb8e:0) which lack specific context or impact on the Hormuz corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2085146077505972,
+      "vessel": 0.7459548076518638,
+      "fundamentals": NaN,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T08:22:11.637847+00:00"
+  },
+  "hormuz::2025-12-25 18:00:00+00:00": {
+    "corridor_id": "hormuz",
+    "as_of": "2025-12-25 18:00:00+00:00",
+    "tier1_composite_score": 0.2101563944507751,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While the seizure of a single oil tanker (gdelt:a32dd8fa78eda63e:0) might not necessarily indicate widespread disruption in the Hormuz corridor, it does suggest increased tensions that could escalate and lead to further disruptions. The return of Dubai airport operations to normal after weather disruption (gdelt:8e08e037f902f606:0) is indeed a positive sign, but it doesn't negate the potential for geopolitical events to impact the corridor.",
+      "cited_evidence_ids": [
+        "gdelt:a32dd8fa78eda63e:0",
+        "gdelt:8e08e037f902f606:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While the seizure of an oil tanker by Iran (gdelt:a32dd8fa78eda63e:0) does indicate increased tensions, it is important to note that this incident occurred over a week ago and Dubai airport operations have since returned to normal after weather disruption (gdelt:8e08e037f902f606:0), suggesting that the situation may not be as dire as initially thought. Furthermore, the potential for a Russia-Ukraine peace deal (gdelt:f7a9ccaf65fb924a:0) might indeed lower oil prices, and it's also possible that other geopolitical events could still impact the corridor.",
+      "cited_evidence_ids": [
+        "gdelt:8e08e037f902f606:0",
+        "gdelt:f7a9ccaf65fb924a:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.5,
+      "confidence_band": [
+        0.4,
+        0.6
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The seizure of an oil tanker by Iran (gdelt:a32dd8fa78eda63e:0) suggests increased tensions in the Strait of Hormuz, which could lead to disruptions, and this argument is supported by the incident itself. The return of Dubai airport operations to normal after weather disruption (gdelt:8e08e037f902f606:0) while positive, does not negate the potential for geopolitical events to impact the corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2313502123247148,
+      "vessel": 0.0405086474449536,
+      "fundamentals": 0.4137531316606219,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T08:25:47.123606+00:00"
+  },
+  "hormuz::2026-01-06 18:00:00+00:00": {
+    "corridor_id": "hormuz",
+    "as_of": "2026-01-06 18:00:00+00:00",
+    "tier1_composite_score": 0.258211094253261,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.5,
+      "argument": "While it is true that OPEC has maintained oil output steady and Saudi Arabia has been cutting the price of Arab light oil for Asian buyers for three consecutive months, these actions could also be a response to escalating tensions in Yemen between Saudi Arabia and the UAE ('gdelt:9e693d676f10a0ab:0', 'gdelt:24cf4b8cb39312a5:0'). The potential disruption caused by these tensions cannot be ignored.",
+      "cited_evidence_ids": [
+        "gdelt:9e693d676f10a0ab:0",
+        "gdelt:24cf4b8cb39312a5:0"
+      ]
+    },
+    "dove": {
+      "score": 0.6,
+      "argument": "While Hawk's points about the escalating tensions between Saudi Arabia and UAE in Yemen (gdelt:e5042d07fd93b1cd:0, gdelt:07108afb290f7068:0, gdelt:9e693d676f10a0ab:0, gdelt:24cf4b8cb39312a5:0) are valid and could potentially disrupt the Hormuz energy corridor, it's important to note that OPEC is maintaining oil output steady (gdelt:e5042d07fd93b1cd:0, gdelt:5a85313abcc1edea:0). Furthermore, Saudi Arabia's repeated cuts in oil prices for Asian buyers (gdelt:841090bcc3dab1a1:0, gdelt:486281b0976cdf09:0) could be a strategic move to maintain market stability rather than a response to the tensions. Therefore, while the risk of disruption is higher due to the tensions, it's not necessarily imminent.",
+      "cited_evidence_ids": [
+        "gdelt:e5042d07fd93b1cd:0",
+        "gdelt:07108afb290f7068:0",
+        "gdelt:9e693d676f10a0ab:0",
+        "gdelt:24cf4b8cb39312a5:0",
+        "gdelt:e5042d07fd93b1cd:0",
+        "gdelt:5a85313abcc1edea:0",
+        "gdelt:841090bcc3dab1a1:0",
+        "gdelt:486281b0976cdf09:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.65,
+      "confidence_band": [
+        0.6,
+        0.7
+      ],
+      "disagreement_index": 0.09999999999999998,
+      "rationale": "The Dove's arguments citing OPEC maintaining oil output steady (gdelt:e5042d07fd93b1cd:0, gdelt:5a85313abcc1edea:0) and Saudi Arabia's repeated cuts in oil prices for Asian buyers (gdelt:841090bcc3dab1a1:0, gdelt:486281b0976cdf09:0) are well-supported by the evidence. The Hawk's arguments about escalating tensions between Saudi Arabia and UAE in Yemen (gdelt:e5042d07fd93b1cd:0, gdelt:07108afb290f7068:0, gdelt:9e693d676f10a0ab:0, gdelt:24cf4b8cb39312a5:0) are also valid but less directly linked to the disruption risk in the Hormuz energy corridor.",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2367044126843844,
+      "vessel": 0.0491686509502193,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T08:31:35.934944+00:00"
+  },
+  "hormuz::2026-01-08 18:00:00+00:00": {
+    "corridor_id": "hormuz",
+    "as_of": "2026-01-08 18:00:00+00:00",
+    "tier1_composite_score": 0.2421704800044815,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While it is true that OPEC has kept oil output steady as of January 4th (gdelt:e5042d07fd93b1cd:0) and Saudi Arabia has not significantly altered its oil prices for Asian buyers in the past three months (gdelt:841090bcc3dab1a1:0, gdelt:486281b0976cdf09:0), recent news reports also indicate escalating tensions between Saudi Arabia and the United Arab Emirates over Yemen (gdelt:9e693d676f10a0ab:0, gdelt:07108afb290f7068:0). These tensions could potentially disrupt OPEC's oil output policy (gdelt:07108afb290f7068:0) and the stability of the oil market. Therefore, while there is some evidence to suggest a commitment to maintaining stable oil supply, the potential for disruption remains.",
+      "cited_evidence_ids": []
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While Hawk's points about escalating tensions between Saudi Arabia and the United Arab Emirates over Yemen (gdelt:9e693d676f10a0ab:0, gdelt:07108afb290f7068:0) are valid, it's important to note that OPEC has maintained oil output steady amid these tensions (gdelt:5a85313abcc1edea:0). Additionally, while Saudi Arabia has been cutting the price of Arab Light oil for Asian buyers for three consecutive months (gdelt:486281b0976cdf09:0, gdelt:841090bcc3dab1a1:0), this could also be a strategic move to maintain market share rather than a response to supply disruptions. These factors suggest a slightly higher disruption risk for the Hormuz energy corridor compared to my initial assessment, but not as high as Hawk's argument.",
+      "cited_evidence_ids": [
+        "gdelt:9e693d676f10a0ab:0",
+        "gdelt:07108afb290f7068:0",
+        "gdelt:5a85313abcc1edea:0",
+        "gdelt:486281b0976cdf09:0",
+        "gdelt:841090bcc3dab1a1:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.55,
+      "confidence_band": [
+        0.5,
+        0.6
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The arguments that won are those citing evidence of escalating tensions between Saudi Arabia and the United Arab Emirates over Yemen (gdelt:9e693d676f10a0ab:0, gdelt:07108afb290f7068:0) and OPEC maintaining oil output steady amid these tensions (gdelt:5a85313abcc1edea:0).",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.2402274253089673,
+      "vessel": 0.0672395576462146,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T08:36:34.219207+00:00"
+  },
+  "hormuz::2026-01-16 18:00:00+00:00": {
+    "corridor_id": "hormuz",
+    "as_of": "2026-01-16 18:00:00+00:00",
+    "tier1_composite_score": 0.2390135187466494,
+    "tier2_triggered": true,
+    "hawk": {
+      "score": 0.4,
+      "argument": "While the Dove's points about OPEC keeping oil output steady (gdelt:e5042d07fd93b1cd:0, gdelt:5a85313abcc1edea:0) and Saudi Arabia not significantly increasing its oil price for Asian buyers in the past month (gdelt:841090bcc3dab1a1:0, gdelt:486281b0976cdf09:0) are noted, these do not fully counterbalance the ongoing turmoil among OPEC members (gdelt:e5042d07fd93b1cd:0, gdelt:5a85313abcc1edea:0) and repeated price cuts by Saudi Arabia for Asian buyers (gdelt:841090bcc3dab1a1:0, gdelt:486281b0976cdf09:0). The incident of Indian nationals being detained in Iran after a tanker crew was detained (gdelt:82305999feabdc7d:0) remains a concern and could potentially lead to diplomatic tensions that disrupt the energy supply chain. The Qatar price cut for Al Shaheen oil (gdelt:cd5f15ad77524744:0) does not necessarily indicate a stabilizing influence in the region.",
+      "cited_evidence_ids": [
+        "gdelt:e5042d07fd93b1cd:0",
+        "gdelt:82305999feabdc7d:0",
+        "gdelt:841090bcc3dab1a1:0",
+        "gdelt:486281b0976cdf09:0",
+        "gdelt:5a85313abcc1edea:0",
+        "gdelt:cd5f15ad77524744:0"
+      ]
+    },
+    "dove": {
+      "score": 0.4,
+      "argument": "While Hawk's points about ongoing turmoil among OPEC members (gdelt:e5042d07fd93b1cd:0, gdelt:5a85313abcc1edea:0) and repeated price cuts by Saudi Arabia for Asian buyers (gdelt:841090bcc3dab1a1:0, gdelt:486281b0976cdf09:0) are valid concerns, they do not necessarily imply an immediate disruption to the energy supply chain. The incident of Indian nationals being detained in Iran after a tanker crew was detained (gdelt:82305999feabdc7d:0) is concerning, but it does not seem to be indicative of a widespread disruption as suggested by Hawk.",
+      "cited_evidence_ids": [
+        "gdelt:e5042d07fd93b1cd:0",
+        "gdelt:82305999feabdc7d:0",
+        "gdelt:841090bcc3dab1a1:0",
+        "gdelt:486281b0976cdf09:0"
+      ]
+    },
+    "adjudicator": {
+      "final_score": 0.55,
+      "confidence_band": [
+        0.45,
+        0.65
+      ],
+      "disagreement_index": 0.0,
+      "rationale": "The Hawk's arguments citing ongoing turmoil among OPEC members (gdelt:e5042d07fd93b1cd:0, gdelt:5a85313abcc1edea:0) and repeated price cuts by Saudi Arabia for Asian buyers (gdelt:841090bcc3dab1a1:0, gdelt:486281b0976cdf09:0) are more convincingly supported by the evidence than the Dove's arguments about OPEC keeping oil output steady (gdelt:e5042d07fd93b1cd:0, gdelt:5a85313abcc1edea:0) and Saudi Arabia not significantly increasing its oil price for Asian buyers in the past month (gdelt:841090bcc3dab1a1:0, gdelt:486281b0976cdf09:0).",
+      "human_review_flag": false,
+      "credibility_floor_applied": false
+    },
+    "sub_scores": {
+      "news": 0.1935702895638236,
+      "vessel": 0.1115421091897158,
+      "fundamentals": 0.4901826588188776,
+      "sanctions_multiplier": 1.0
+    },
+    "generated_at": "2026-07-22T08:42:35.246055+00:00"
+  }
+}

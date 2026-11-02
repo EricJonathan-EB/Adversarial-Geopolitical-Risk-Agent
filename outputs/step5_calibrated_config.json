@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-07-21T14:19:49.922681+00:00",
+  "backtest_candidates_file": "outputs\\step5_backtest_candidates.csv",
+  "n_backtest_candidates": 45,
+  "lead_time": {
+    "n_shock_corridor_pairs": 24,
+    "n_with_lead_signal": 2,
+    "mean_lead_days": 19.5,
+    "median_lead_days": 19.5
+  },
+  "trigger_threshold_sweep_file": "outputs\\step5_threshold_sweep.csv",
+  "current_trigger_config": {
+    "composite_threshold": 0.65,
+    "disagreement_threshold": 0.35
+  },
+  "human_review_threshold": {
+    "current": 0.3,
+    "suggested": 0.19999999999999996,
+    "suggested_percentile": 0.8
+  }
+}
